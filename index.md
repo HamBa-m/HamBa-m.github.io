@@ -10,7 +10,7 @@ title: "Welcome to my corner"
 classes: wide
 ---
 
-Welcome to my **“online corner”**—a special place where I, **Hamza Ba-mohammed**, an AI research engineer and PhD student in Distributed AI’s security, mix research, business, and personal ideas. This isn’t just a portfolio or blog; it’s a cozy space showing my CV, schoolwork, tech tips, art, and thoughts about life and culture. It’s open for everyone who loves learning.
+Welcome to my **“online corner”**—a special place where I, **Hamza Ba-mohammed**, an AI research engineer and PhD candidate in Multi Agent AI’s security, mix research, business, and personal ideas. This isn’t just a portfolio or blog; it’s a cozy space showing my CV, schoolwork, tech tips, art, and thoughts about life and culture. It’s open for everyone who loves learning.
 
 ### The Story Behind the Brand
 My logo uses **purple**—my favorite color—because it’s rare and royal, showing excellence, new ideas, and beauty. The Arabic letters **ر ح ب** (from ركن حام بام) show my Arabic roots. The shapes look like a shield, celebrating simple geometry and standing for honesty and strength.

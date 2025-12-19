@@ -22,7 +22,7 @@ destination: _site  # Should be relative, not absolute
 permalink: /:categories/:title/  # Ensure no leading slash creates absolute paths
 locale: "en-US"
 title: "HamBam's Corner"
-description: "PhD Candidate specializing in Adversarial Multi-Agent RL. AI Engineer. Data Scientist."
+description: "PhD Candidate specializing in Adversarial Multi-Agent RL. AI Engineer. Data Scientist. Moroccan Social Activist. Blogger."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hambam.top"
 logo: "/assets/images/logo.png" # Path to your logo image
