@@ -38,5 +38,3 @@ My logo uses **purple**—my favorite color—because it’s rare and royal, sho
   * **[Human](/blog/human/):** Reflections on life, culture, and personal growth.
 * **[Gallery](/gallery/):** Sharing pictures from various moments in my life and work.
 * **[Contact](/contact/):** Get in touch with me.
-
-*Some sections and pages are still under development.*
