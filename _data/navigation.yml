@@ -1,0 +1,59 @@
+# 1. Main Top Navigation (Keep it simple, no dropdowns)
+main:
+  - title: "Home"
+    url: /
+  - title: "About Me"
+    url: /about/
+  - title: "Portfolio"
+    url: /portfolio/
+  - title: "Services"
+    url: /services/
+  - title: "Academia"
+    url: /academia/
+  - title: "Blog"
+    url: /blog/
+  - title: "Gallery"
+    url: /gallery/
+  - title: "Contact"
+    url: /contact/
+
+# 2. Portfolio Sidebar
+portfolio:
+  - title: "Portfolio Navigation"
+    children:
+      - title: "Overview"
+        url: /portfolio/
+      - title: "Education"
+        url: /portfolio/education/
+      - title: "Work Experience"
+        url: /portfolio/work-experience/
+      - title: "Projects"
+        url: /portfolio/projects/
+      - title: "Honors"
+        url: /portfolio/honors/
+      - title: "Volunteering"
+        url: /portfolio/volunteering/
+      - title: "Leadership"
+        url: /portfolio/leadership/
+
+# 3. Academia Sidebar
+academia:
+  - title: "Academia Navigation"
+    children:
+      - title: "Overview"
+        url: /academia/
+      - title: "Publications"
+        url: /academia/publications/
+      - title: "Resources"
+        url: /academia/resources/
+
+# 4. Blog Sidebar
+blog:
+  - title: "Blog Categories"
+    children:
+      - title: "All Posts"
+        url: /blog/
+      - title: "Technical"
+        url: /blog/technical/
+      - title: "Human"
+        url: /blog/human/

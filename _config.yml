@@ -1,0 +1,146 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you:
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+locale: "en-US"
+title: "HamBam's Corner"
+description: "PhD Candidate | AI Engineer"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://hambam.top"
+logo: "/assets/images/logo.png" # Path to your logo image
+og_image: "/assets/images/logo.png" # Path to your Open Graph image
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: single
+      author_profile: true # This creates the sidebar with your photo/bio
+      read_time: true     # Show estimated read time
+  # 1. Apply Portfolio Sidebar to everything in the portfolio folder
+  - scope:
+      path: "_pages/portfolio"
+    values:
+      sidebar:
+        nav: "portfolio"
+  # 2. Apply Academia Sidebar to everything in the academia folder
+  - scope:
+      path: "_pages/academia"
+    values:
+      sidebar:
+        nav: "academia"
+  # 3. Apply Blog Sidebar to everything in the blog folder
+  - scope:
+      path: "_pages/blog"
+    values:
+      sidebar:
+        nav: "blog"
+
+
+# Add this line to link the navigation file
+navigation:
+  main: _data/navigation.yml
+
+timezone: Africa/Casablanca
+
+author:
+  name: "Hamza Ba-mohammed"
+  avatar: "/assets/images/profile.jpg" # Put your photo in this folder
+  bio: "PhD Candidate specializing in Adversarial Multi-Agent RL. AI Engineer. Data Scientist."
+  location: "Benguerir/Rabat, Morocco"
+  email: "bamohammed.empimo@gmail.com"
+  links:
+    - label: "LinkedIn"
+      url: "https://linkedin.com/in/hambam"
+      icon: "fab fa-fw fa-linkedin"
+    # - label: "Twitter"
+    #   url: "https://twitter.com/hamba_m"
+    #   icon: "fab fa-fw fa-twitter"
+    # - label: "ResearchGate"
+    #   url: "https://www.researchgate.net/profile/Hamza-Ba-Mohammed"
+    #   icon: "fab fa-fw fa-researchgate"
+    - label: "GitHub"
+      url: "https://github.com/hamba-m"
+      icon: "fab fa-fw fa-github"
+    - label: "ORCID"
+      url: "https://orcid.org/0000-0002-1234-5678"
+      icon: "fab fa-fw fa-orcid"
+    # - label: "Google Scholar"
+    #   url: "https://scholar.google.com/citations?user=example"
+    #   icon: "ai ai-google-scholar-square"
+
+footer:
+  since: "2025"
+  links:
+    - label: "LinkedIn"
+      url: "https://linkedin.com/in/hambam"
+      icon: "fab fa-fw fa-linkedin"
+    - label: "Twitter"
+      url: "https://twitter.com/hambamX"
+      icon: "fab fa-fw fa-twitter"
+    - label: "ResearchGate"
+      url: "https://www.researchgate.net/profile/Hamza-Ba-Mohammed"
+      icon: "fab fa-fw fa-researchgate"
+    - label: "GitHub"
+      url: "https://github.com/hamba-m"
+      icon: "fab fa-fw fa-github"
+    - label: "ORCID"
+      url: "https://orcid.org/0000-0002-1234-5678"
+      icon: "fab fa-fw fa-orcid"
+    - label: "Google Scholar"
+      url: "https://scholar.google.com/citations?user=example&user=NdATUncAAAAJ"
+      icon: "fab fa-google-scholar"
+
+
+# Build settings
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "neon"
+plugins:
+  - jekyll-include-cache
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-NMR9VV7W04"
+    anonymize_ip: false # default
+
+
+include:
+  - _pages
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
