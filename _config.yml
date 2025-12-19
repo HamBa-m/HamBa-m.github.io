@@ -107,6 +107,8 @@ minimal_mistakes_skin: "neon"
 plugins:
   - jekyll-include-cache
   - jekyll-remote-theme
+  - jekyll-sitemap
+  - jekyll-feed
 
 analytics:
   provider: "google-gtag"

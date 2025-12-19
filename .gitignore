@@ -6,3 +6,6 @@ vendor
 
 # py files
 *.py
+
+# VSCode settings
+.vscode/

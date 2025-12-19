@@ -1,0 +1,10 @@
+# robots.txt
+
+User-agent: *
+Allow: /
+
+# Don't index the PDF folder (optional, if you want to keep CVs private-ish)
+Disallow: /assets/images/gallery/
+
+# Point bots to your sitemap
+Sitemap: https://hambam.top/sitemap.xml
