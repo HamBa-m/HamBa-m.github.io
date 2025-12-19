@@ -20,7 +20,7 @@
 
 locale: "en-US"
 title: "HamBam's Corner"
-description: "PhD Candidate | AI Engineer"
+description: "PhD Candidate specializing in Adversarial Multi-Agent RL. AI Engineer. Data Scientist."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hambam.top"
 logo: "/assets/images/logo.png" # Path to your logo image
@@ -69,21 +69,12 @@ author:
     - label: "LinkedIn"
       url: "https://linkedin.com/in/hambam"
       icon: "fab fa-fw fa-linkedin"
-    # - label: "Twitter"
-    #   url: "https://twitter.com/hamba_m"
-    #   icon: "fab fa-fw fa-twitter"
-    # - label: "ResearchGate"
-    #   url: "https://www.researchgate.net/profile/Hamza-Ba-Mohammed"
-    #   icon: "fab fa-fw fa-researchgate"
     - label: "GitHub"
       url: "https://github.com/hamba-m"
       icon: "fab fa-fw fa-github"
     - label: "ORCID"
       url: "https://orcid.org/0000-0002-1234-5678"
       icon: "fab fa-fw fa-orcid"
-    # - label: "Google Scholar"
-    #   url: "https://scholar.google.com/citations?user=example"
-    #   icon: "ai ai-google-scholar-square"
 
 footer:
   since: "2025"
