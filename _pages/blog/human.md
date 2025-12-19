@@ -1,5 +1,5 @@
 ---
-title: Human
+title: "Human"
 layout: single
 permalink: /blog/human/
 author_profile: false

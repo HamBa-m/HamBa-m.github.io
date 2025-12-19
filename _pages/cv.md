@@ -4,6 +4,9 @@ title: "Portfolio Overview"
 permalink: /cv/
 author_profile: true
 classes: wide
+toc: true
+toc_sticky: true
+toc_label: "Jump to"
 ---
 
 Welcome to my professional portfolio. This collection documents my journey from rigorous academic training to real-world engineering impact and community leadership.

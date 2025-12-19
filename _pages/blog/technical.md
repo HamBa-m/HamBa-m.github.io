@@ -1,5 +1,5 @@
 ---
-title: Technical
+title: "Technical"
 layout: single
 permalink: /blog/technical/
 author_profile: false
