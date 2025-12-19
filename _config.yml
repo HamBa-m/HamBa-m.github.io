@@ -102,7 +102,6 @@ footer:
 
 
 # Build settings
-# theme: minimal-mistakes-jekyll # if you are using a local theme
 remote_theme: "mmistakes/minimal-mistakes" # for deployment on GitHub Pages
 minimal_mistakes_skin: "neon"
 plugins:
