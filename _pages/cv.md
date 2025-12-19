@@ -3,7 +3,6 @@ layout: single
 title: "Portfolio Overview"
 permalink: /cv/
 author_profile: true
-classes: wide
 toc: true
 toc_sticky: true
 toc_label: "Jump to"
