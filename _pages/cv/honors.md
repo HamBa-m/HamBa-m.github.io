@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Honors"
-permalink: /portfolio/honors/
+permalink: /cv/honors/
 author_profile: false
 toc: true
 toc_sticky: true

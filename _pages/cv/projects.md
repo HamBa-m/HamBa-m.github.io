@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Projects"
-permalink: /portfolio/projects/
+permalink: /cv/projects/
 author_profile: false
 toc: true
 toc_sticky: true

@@ -37,10 +37,10 @@ defaults:
       read_time: true     # Show estimated read time
   # 1. Apply Portfolio Sidebar to everything in the portfolio folder
   - scope:
-      path: "_pages/portfolio"
+      path: "_pages/cv"
     values:
       sidebar:
-        nav: "portfolio"
+        nav: "cv"
   # 2. Apply Academia Sidebar to everything in the academia folder
   - scope:
       path: "_pages/academia"

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Leadership"
-permalink: /portfolio/leadership/
+permalink: /cv/leadership/
 author_profile: false
 toc: true
 toc_sticky: true

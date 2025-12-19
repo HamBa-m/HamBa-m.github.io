@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Portfolio Overview"
-permalink: /portfolio/
+permalink: /cv/
 author_profile: true
 classes: wide
 ---
@@ -19,8 +19,8 @@ My career is built on a strong theoretical base in AI and Computer Science, rein
 * **Education:** My path from CPGE to ENSIAS and my current PhD research at UM6P.
 * **Work Experience:** My roles as a Research Engineer, Data Scientist, and AI Consultant.
 
-<a href="/portfolio/education/" class="btn btn--inverse">Education</a>
-<a href="/portfolio/work-experience/" class="btn btn--light-outline">Work Experience</a>
+<a href="/cv/education/" class="btn btn--inverse">Education</a>
+<a href="/cv/work-experience/" class="btn btn--light-outline">Work Experience</a>
 
 </div>
 
@@ -33,8 +33,8 @@ I focus on building systems that solve real problems—from water management to 
 * **Projects:** A showcase of my technical work in MARL, GNNs, and Full-Stack AI.
 * **Honors:** Awards from NASA Space Apps, Innovation Contests, and Scientific Festivals.
 
-<a href="/portfolio/projects/" class="btn btn--inverse">Projects</a>
-<a href="/portfolio/honors/" class="btn btn--light-outline">Honors</a>
+<a href="/cv/projects/" class="btn btn--inverse">Projects</a>
+<a href="/cv/honors/" class="btn btn--light-outline">Honors</a>
 
 </div>
 
@@ -47,7 +47,7 @@ I believe that technical expertise must be paired with social responsibility. I 
 * **Leadership:** My roles founding the MMC, leading university clubs, and managing initiatives.
 * **Volunteering:** Teaching, mentoring, and speaking at workshops and conferences.
 
-<a href="/portfolio/leadership/" class="btn btn--inverse">Leadership</a>
-<a href="/portfolio/volunteering/" class="btn btn--light-outline">Volunteering</a>
+<a href="/cv/leadership/" class="btn btn--inverse">Leadership</a>
+<a href="/cv/volunteering/" class="btn btn--light-outline">Volunteering</a>
 
 </div>

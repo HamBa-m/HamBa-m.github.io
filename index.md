@@ -23,13 +23,13 @@ My logo uses **purple**—my favorite color—because it’s rare and royal, sho
 ## Site Map
 
 * **[About](/about/):** A brief introduction to who I am and what drives me.
-* **[Portfolio](/portfolio/):** Explore my comprehensive CV, organized for clarity:
-  * **[Education](/portfolio/education/):** My academic journey, including institutions and fields of study.
-  * **[Work Experience](/portfolio/work-experience/):** Key roles and professional milestones.
-  * **[Projects](/portfolio/projects/):** Notable initiatives showcasing my skills and impact.
-  * **[Honors](/portfolio/honors/):** Awards and recognitions I've earned.
-  * **[Volunteering](/portfolio/volunteering/):** My contributions to community and social causes.
-  * **[Leadership](/portfolio/leadership/):** Roles where I've led teams or initiatives.
+* **[Portfolio](/cv/):** Explore my comprehensive CV, organized for clarity:
+  * **[Education](/cv/education/):** My academic journey, including institutions and fields of study.
+  * **[Work Experience](/cv/work-experience/):** Key roles and professional milestones.
+  * **[Projects](/cv/projects/):** Notable initiatives showcasing my skills and impact.
+  * **[Honors](/cv/honors/):** Awards and recognitions I've earned.
+  * **[Volunteering](/cv/volunteering/):** My contributions to community and social causes.
+  * **[Leadership](/cv/leadership/):** Roles where I've led teams or initiatives.
 * **[Services](/services/):** Discover my professional offerings and how I can add value to your projects.
 * **[Academia](/academia/):** Dive into my scholarly work, including:
   * **[Publications](/academia/publications/):** My latest research papers and articles.

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Work Experience"
-permalink: /portfolio/work-experience/
+permalink: /cv/work-experience/
 author_profile: false
 toc: true
 toc_sticky: true

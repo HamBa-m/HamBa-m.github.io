@@ -5,7 +5,7 @@ main:
   - title: "About Me"
     url: /about/
   - title: "Portfolio"
-    url: /portfolio/
+    url: //
   - title: "Services"
     url: /services/
   - title: "Academia"
@@ -22,19 +22,19 @@ portfolio:
   - title: "Portfolio Navigation"
     children:
       - title: "Overview"
-        url: /portfolio/
+        url: //
       - title: "Education"
-        url: /portfolio/education/
+        url: //education/
       - title: "Work Experience"
-        url: /portfolio/work-experience/
+        url: //work-experience/
       - title: "Projects"
-        url: /portfolio/projects/
+        url: //projects/
       - title: "Honors"
-        url: /portfolio/honors/
+        url: //honors/
       - title: "Volunteering"
-        url: /portfolio/volunteering/
+        url: //volunteering/
       - title: "Leadership"
-        url: /portfolio/leadership/
+        url: //leadership/
 
 # 3. Academia Sidebar
 academia:

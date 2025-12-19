@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Education"
-permalink: /portfolio/education/
+permalink: /cv/education/
 author_profile: false
 toc: true
 toc_sticky: true

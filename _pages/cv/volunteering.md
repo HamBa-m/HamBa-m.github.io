@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Volunteering"
-permalink: /portfolio/volunteering/
+permalink: /cv/volunteering/
 author_profile: false
 toc: true
 toc_sticky: true
