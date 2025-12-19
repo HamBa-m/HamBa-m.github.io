@@ -11,7 +11,7 @@ classes: wide
 
 To provide clear, flexible, and comprehensive AI services tailored to diverse client needs, I have organized my expertise into five core roles tailored to where you are in your AI journey.
 
-<a href="#" class="btn btn--primary btn--large">Book a Free Call</a>
+<a href="https://calendar.app.google/L12zbpTtDC7HLkAq6" class="btn btn--primary btn--large">Book a Free Call</a>
 
 ## Service Overview
 
@@ -29,6 +29,6 @@ To provide clear, flexible, and comprehensive AI services tailored to diverse cl
 
 To make my AI services accessible while reflecting the value and expertise I provide, I have adopted a flexible pricing system. All services are billed on a **pay-as-you-go hourly basis** and depend on your requirements, allowing you to engage with me for exactly the time you need without long-term commitments.
 
-Do not hesitate to **[book your free first call](#)** for further details and to discuss your needs.
+Do not hesitate to **[book your free first call](https://calendar.app.google/L12zbpTtDC7HLkAq6)** for further details and to discuss your needs.
 
 </div>
