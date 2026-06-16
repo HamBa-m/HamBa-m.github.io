@@ -6,4 +6,11 @@ author_profile: false
 ---
 # Human
 
-This is the Human blog page.
+<ul>
+  {% for post in site.categories.human %}
+    <li>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      <span>({{ post.date | date: "%B %d, %Y" }})</span>
+    </li>
+  {% endfor %}
+</ul>
