@@ -95,8 +95,8 @@ toc_label: "CV Sections"
 ### **Manuscripts Under Review**
 * **A Survey on Adversarial Multi-Agent Deep Reinforcement Learning**  
   **Hamza Ba-mohammed**, Latifa El Bouga, Amine Andam, Mostapha Essoullami, Douae Benhlima, Jamal Bentahar, Mustapha Hedabou.  
-  *ACM Computing Surveys* (ACM CSUR), Manuscript #CSUR-2025-1595, Under Major Revision.  
-  *Presents a 7-dimensional attack taxonomy, functional defense categorization (robustness evaluation vs. enhancement), empirical threat-model access analysis, and an open-source reproducible pipeline across 61 surveyed papers.*
+  *ACM Computing Surveys* (ACM CSUR), Under Major Revision.  
+  *Provides a comprehensive multi-dimensional attack taxonomy, functional defense categorization (robustness evaluation vs. enhancement), threat-model access analysis, and benchmark evaluation in adversarial MARL.*
 
 ### **Peer-Reviewed Conference Proceedings**
 * **Assessing the Evolution of Meteorological Seasons and Climate Changes Using Hierarchical Clustering**  

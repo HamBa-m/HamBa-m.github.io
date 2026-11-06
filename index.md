@@ -53,9 +53,9 @@ My research investigates the relationship between **individual vulnerability and
 <div class="research-entry">
   <h4>A Survey on Adversarial Multi-Agent Deep Reinforcement Learning</h4>
   <div class="authors"><strong>Hamza Ba-mohammed</strong>, Latifa El Bouga, Amine Andam, Mostapha Essoullami, Douae Benhlima, Jamal Bentahar, Mustapha Hedabou</div>
-  <div class="venue"><i class="fas fa-hourglass-half"></i> Under Major Revision — ACM Computing Surveys (ACM CSUR), Manuscript #CSUR-2025-1595</div>
+  <div class="venue"><i class="fas fa-hourglass-half"></i> Under Major Revision — ACM Computing Surveys (ACM CSUR)</div>
   <div class="abstract">
-    A comprehensive synthesis connecting decision-making formalisms (Markov games, POSGs, Dec-POMDPs) to game-theoretic solution concepts. Introduces a <strong>seven-dimensional attack taxonomy</strong>, reveals critical threat-model imbalances (70% white-box prevalence vs. 5% gray-box coverage), provides a <strong>functional defense categorization</strong> (robustness evaluation vs. enhancement), and open-sources a reproducible literature collection pipeline across 61 core surveyed papers.
+    A comprehensive synthesis connecting multi-agent decision formalisms (Markov games, POSGs, Dec-POMDPs) to game-theoretic solution concepts. Develops a multi-dimensional attack taxonomy, examines threat-model access assumptions, provides a functional defense categorization (robustness evaluation vs. enhancement), and outlines open directions across multi-agent benchmarks.
   </div>
 </div>
 

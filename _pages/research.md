@@ -38,17 +38,16 @@ My research connects effects on the directly targeted agent, the responses of it
 <div class="research-entry">
   <h4>A Survey on Adversarial Multi-Agent Deep Reinforcement Learning</h4>
   <div class="authors"><strong>Hamza Ba-mohammed</strong>, Latifa El Bouga, Amine Andam, Mostapha Essoullami, Douae Benhlima, Jamal Bentahar, Mustapha Hedabou</div>
-  <div class="venue"><i class="fas fa-file-alt"></i> Under Major Revision — ACM Computing Surveys (ACM CSUR), Manuscript #CSUR-2025-1595</div>
+  <div class="venue"><i class="fas fa-file-alt"></i> Under Major Revision — ACM Computing Surveys (ACM CSUR)</div>
   <div class="abstract">
-    <p>This survey delivers a comprehensive, taxonomy-driven synthesis of the adversarial multi-agent deep reinforcement learning (adversarial MARL) landscape, connecting decision-making frameworks (Markov games, POSGs, Dec-POMDPs) to foundational game-theoretic solution concepts including min-max reasoning, Stackelberg structures, and robust equilibria under observational and transition uncertainty.</p>
+    <p>This survey provides a comprehensive, taxonomy-driven synthesis of adversarial multi-agent deep reinforcement learning (adversarial MARL), establishing formal connections between multi-agent decision models (Markov games, POSGs, Dec-POMDPs) and game-theoretic solution concepts including min-max reasoning, Stackelberg formulations, and robust equilibria under observational and transition uncertainty.</p>
     
-    <p><strong>Key Analytical Contributions:</strong></p>
+    <p><strong>Scope &amp; Conceptual Framework:</strong></p>
     <ul>
-      <li><strong>Seven-Dimensional Attack Taxonomy:</strong> Formulates and compares adversarial strategies across attack timing (training-time poisoning vs. execution-time evasion), access privileges (white-box, gray-box, black-box), victim selection and cardinality, attack frequency, and perturbation budgets (\(\ell_p\)-norm bounded observation and action perturbations).</li>
-      <li><strong>Critical Threat Model Gaps:</strong> Reveals that <strong>70%</strong> of the surveyed literature relies on idealized white-box access, while gray-box (5%) and black-box settings remain underexplored; communication channels are critically understudied as attack surfaces; and only <strong>33.3%</strong> of attack studies evaluate existing defenses.</li>
-      <li><strong>Algorithmic Coverage:</strong> Dissects literature selection practices versus inherent algorithmic properties, showing that on-policy architectures such as MAPPO remain largely unstudied as attack targets relative to MADDPG, QMIX, and VDN.</li>
-      <li><strong>Functional Defense Categorization:</strong> Restructures defenses into <em>robustness evaluation</em> and <em>robustness enhancement</em>, synthesizing trade-offs across adversarial training, game-theoretic formulations, mutual information regularization (e.g., MIR3), and certifiable runtime defenses (e.g., ROMAX convex relaxations, anomaly detection, teammate prediction) under operational costs and retraining restrictions.</li>
-      <li><strong>Reproducible Open-Source Pipeline:</strong> Accompanied by an open-sourced literature collection methodology integrating automated scraping, LLM-based semantic filtering, and BERTopic guided clustering over 61 core surveyed papers.</li>
+      <li><strong>Multi-Dimensional Attack Taxonomy:</strong> Formulates and compares adversarial strategies across attack timing (training-time poisoning vs. execution-time evasion), threat-model access privileges (white-box, gray-box, black-box), victim selection and cardinality, and bounded perturbation spaces.</li>
+      <li><strong>Threat Model Realism:</strong> Analyzes practical access assumptions in multi-agent systems, critically examining under-explored attack surfaces including inter-agent communication channels and restricted-information settings.</li>
+      <li><strong>Algorithmic &amp; Benchmark Analysis:</strong> Investigates vulnerability profiles across leading multi-agent architectures (comparing on-policy methods and value-factorization approaches) under standard multi-agent benchmarks.</li>
+      <li><strong>Functional Defense Categorization:</strong> Structures defense literature around robustness evaluation versus robustness enhancement, synthesizing trade-offs among adversarial training, game-theoretic formulations, regularized objectives, and execution-time certified protections.</li>
     </ul>
   </div>
 </div>
