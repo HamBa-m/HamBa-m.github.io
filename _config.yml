@@ -2,7 +2,7 @@ destination: _site
 permalink: /:categories/:title/
 locale: "en-US"
 title: "Hamza Ba-mohammed"
-description: "PhD Researcher in Multi-Agent Reinforcement Learning at the College of Computing, Mohammed VI Polytechnic University (UM6P)."
+description: "PhD Candidate in Cooperative Multi-Agent Reinforcement Learning at the College of Computing, Mohammed VI Polytechnic University (UM6P)."
 baseurl: ""
 url: "https://hambam.top"
 logo: "/assets/images/logo.png"
@@ -24,7 +24,7 @@ timezone: Africa/Casablanca
 author:
   name: "Hamza Ba-mohammed"
   avatar: "/assets/images/profile.jpg"
-  bio: "PhD Researcher at UM6P College of Computing. Adversarial Multi-Agent Reinforcement Learning."
+  bio: "PhD Candidate at UM6P College of Computing. Adversarial Robustness in Cooperative Multi-Agent Learning."
   location: "Benguerir / Rabat, Morocco"
   email: "hamza.bamohammed@um6p.ma"
   links:

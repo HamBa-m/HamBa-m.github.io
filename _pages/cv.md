@@ -2,7 +2,8 @@
 layout: single
 title: "Curriculum Vitae"
 permalink: /cv/
-author_profile: true
+author_profile: false
+classes: wide
 toc: true
 toc_sticky: true
 toc_label: "CV Sections"
@@ -10,10 +11,10 @@ toc_label: "CV Sections"
 
 <div class="action-buttons">
   <a href="/assets/cv/Hamza_Ba-mohammed_CV.pdf" class="btn btn--primary" target="_blank"><i class="fas fa-file-pdf"></i> Download CV (PDF)</a>
-  <a href="mailto:hamza.bamohammed@um6p.ma" class="btn btn--light-outline"><i class="fas fa-envelope"></i> hamza.bamohammed@um6p.ma</a>
-  <a href="https://scholar.google.com/citations?user=NdATUncAAAAJ" class="btn btn--light-outline" target="_blank"><i class="fas fa-graduation-cap"></i> Google Scholar</a>
-  <a href="https://orcid.org/0000-0003-1454-0801" class="btn btn--light-outline" target="_blank"><i class="fab fa-orcid"></i> ORCID</a>
-  <a href="https://github.com/hamba-m" class="btn btn--light-outline" target="_blank"><i class="fab fa-github"></i> GitHub</a>
+  <a href="mailto:hamza.bamohammed@um6p.ma" class="btn btn--inverse"><i class="fas fa-envelope"></i> hamza.bamohammed@um6p.ma</a>
+  <a href="https://scholar.google.com/citations?user=NdATUncAAAAJ" class="btn btn--inverse" target="_blank"><i class="fas fa-graduation-cap"></i> Google Scholar</a>
+  <a href="https://orcid.org/0000-0003-1454-0801" class="btn btn--inverse" target="_blank"><i class="fab fa-orcid"></i> ORCID</a>
+  <a href="https://github.com/hamba-m" class="btn btn--inverse" target="_blank"><i class="fab fa-github"></i> GitHub</a>
 </div>
 
 ---
@@ -23,8 +24,10 @@ toc_label: "CV Sections"
 ### **Ph.D. in Computer Science / Artificial Intelligence**
 * **Institution:** [College of Computing (CC)](https://cc.um6p.ma/), Mohammed VI Polytechnic University (UM6P), Morocco
 * **Period:** 2024 – Present (Expected 2028)
-* **Topic:** Adversarial Reinforcement Learning in Multi-Agent Systems
-* **Supervisors:** [Prof. Mustapha Hedabou](https://scholar.google.com/citations?user=n-0iO4sAAAAJ) & [Prof. Jamal Bentahar](https://scholar.google.com/citations?user=0Q25J-gAAAAJ)
+* **Thesis Topic:** Adversarial Robustness in Cooperative Multi-Agent Learning
+* **Supervisors:**
+  * [Prof. Mustapha Hedabou](https://scholar.google.com/citations?user=n-0iO4sAAAAJ) — Mohammed VI Polytechnic University (UM6P), Morocco
+  * [Prof. Jamal Bentahar](https://scholar.google.com/citations?user=0Q25J-gAAAAJ) — Khalifa University, UAE & Concordia University, Canada
 
 ### **State-Engineer Diploma in Computer Science (Equivalent to M.Sc. in Engineering)**
 * **Institution:** [Higher National School of Computer Sciences (ENSIAS)](http://ensias.um5.ac.ma/), Rabat, Morocco
@@ -51,7 +54,7 @@ toc_label: "CV Sections"
 ### **Doctoral Researcher**
 * **Institution:** College of Computing, UM6P, Morocco
 * **Period:** 2024 – Present
-* Theoretical and empirical investigation of adversarial attacks, Byzantine robustness, and defense algorithms in Multi-Agent Reinforcement Learning (MARL).
+* Theoretical and empirical investigation of adversarial robustness, observation perturbation propagation, behavioral heterogeneity, and execution-time protection in cooperative MARL.
 * First author of the comprehensive survey *“A Survey on Adversarial Multi-Agent Deep Reinforcement Learning”* (*under major revision at ACM Computing Surveys*).
 
 ### **AI Research Intern (Engineering Capstone)**

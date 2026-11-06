@@ -2,7 +2,8 @@
 layout: single
 title: "Academic & Pedagogical Resources"
 permalink: /resources/
-author_profile: true
+author_profile: false
+classes: wide
 toc: true
 toc_sticky: true
 toc_label: "Resource Types"

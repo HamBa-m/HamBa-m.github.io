@@ -4,9 +4,9 @@
 
 $doc-font-size: 15px;
 
-// Primary Accent
+// Primary Accent Palette
 $primary-color: #4b3869;
-$link-color: #3b5998;
+$link-color: #2b547e;
 
 // Import the Air Skin
 @import "minimal-mistakes/skins/air";
@@ -19,6 +19,7 @@ $link-color: #3b5998;
   margin-top: 0 !important;
   padding-top: 0 !important;
   font-weight: 700;
+  color: #1e293b;
 }
 
 .notice--primary h3, 
@@ -28,48 +29,168 @@ $link-color: #3b5998;
   margin-top: 0 !important;
 }
 
-/* Action button bar */
+/* ==========================================================================
+   BUTTON FIXES (Ensures 100% visibility on white/light background)
+   ========================================================================== */
+
 .action-buttons {
-  margin: 1.2em 0 1.5em 0;
+  margin: 1.2em 0 1.6em 0;
   display: flex;
   flex-wrap: wrap;
-  gap: 8px;
+  gap: 10px;
 }
 
 .action-buttons .btn {
   margin: 0 !important;
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  font-weight: 600;
+  font-size: 0.88em;
+  padding: 0.55em 1em;
+  border-radius: 6px;
+  line-height: 1.4;
+  text-decoration: none !important;
+  transition: all 0.2s ease-in-out;
+}
+
+/* High-contrast styling for secondary/outline buttons on light background */
+.btn--light-outline,
+.btn--inverse,
+.btn--outline,
+.action-buttons .btn--light-outline,
+.action-buttons .btn--inverse {
+  background-color: #ffffff !important;
+  color: #1e293b !important;
+  border: 1.5px solid #cbd5e1 !important;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.06);
+}
+
+.btn--light-outline:hover,
+.btn--inverse:hover,
+.btn--outline:hover,
+.action-buttons .btn--light-outline:hover,
+.action-buttons .btn--inverse:hover {
+  background-color: #f1f5f9 !important;
+  color: #0f172a !important;
+  border-color: #94a3b8 !important;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  transform: translateY(-1px);
+}
+
+.btn--light-outline i,
+.btn--inverse i,
+.action-buttons .btn--light-outline i,
+.action-buttons .btn--inverse i {
+  color: #4b3869 !important;
+}
+
+/* Primary and Info action buttons */
+.action-buttons .btn--primary {
+  background-color: #4b3869 !important;
+  color: #ffffff !important;
+  border: 1.5px solid #4b3869 !important;
+  box-shadow: 0 1px 3px rgba(75, 56, 105, 0.3);
+}
+
+.action-buttons .btn--primary:hover {
+  background-color: #382750 !important;
+  border-color: #382750 !important;
+  transform: translateY(-1px);
+}
+
+.action-buttons .btn--info {
+  background-color: #1e708a !important;
+  color: #ffffff !important;
+  border: 1.5px solid #1e708a !important;
+  box-shadow: 0 1px 3px rgba(30, 112, 138, 0.3);
+}
+
+.action-buttons .btn--info:hover {
+  background-color: #17576b !important;
+  border-color: #17576b !important;
+  transform: translateY(-1px);
+}
+
+/* ==========================================================================
+   LAYOUT OPTIMIZATION (Prevent cramped central content column)
+   ========================================================================== */
+
+/* Expand main container max-width on large screens */
+#main {
+  max-width: 1400px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 2em;
+  padding-right: 2em;
+}
+
+/* Give wide pages breathing room */
+.layout--single.wide .page {
+  float: none;
+  width: 100%;
+}
+
+/* Make right sticky TOC compact so central content has maximal width */
+.sidebar__right {
+  width: 260px !important;
+}
+
+.sidebar__right.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 2em;
 }
 
 /* Publication and Research entries */
 .research-entry {
-  margin-bottom: 1.5em;
-  padding: 1.2em;
-  border-left: 4px solid $primary-color;
-  background-color: rgba(75, 56, 105, 0.04);
-  border-radius: 0 4px 4px 0;
+  margin-bottom: 1.6em;
+  padding: 1.3em 1.5em;
+  border-left: 4px solid #4b3869;
+  background-color: #f8fafc;
+  border: 1px solid #e2e8f0;
+  border-left: 4px solid #4b3869;
+  border-radius: 0 6px 6px 0;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.03);
 }
 
 .research-entry h4 {
   margin-top: 0;
-  margin-bottom: 0.3em;
-  font-size: 1.1em;
+  margin-bottom: 0.35em;
+  font-size: 1.15em;
+  color: #0f172a;
 }
 
 .research-entry .authors {
   font-size: 0.95em;
-  color: #555;
-  margin-bottom: 0.4em;
+  color: #475569;
+  margin-bottom: 0.45em;
 }
 
 .research-entry .venue {
-  font-size: 0.9em;
+  font-size: 0.92em;
   font-weight: 600;
-  color: #2b547e;
+  color: #1e708a;
   margin-bottom: 0.6em;
 }
 
 .research-entry .abstract {
-  font-size: 0.92em;
-  line-height: 1.5;
-  color: #333;
+  font-size: 0.93em;
+  line-height: 1.6;
+  color: #334155;
+}
+
+.research-card {
+  background-color: #ffffff;
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  padding: 1.4em;
+  margin-bottom: 1.4em;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
+}
+
+.research-card h3 {
+  margin-top: 0;
+  color: #4b3869;
+  font-size: 1.15em;
 }
