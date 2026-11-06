@@ -249,28 +249,36 @@ $link-color: #2b547e;
    DARK MODE SYSTEM
    ========================================================================== */
 
-/* Theme Toggle Link (Integrated seamlessly inside main navbar) */
+/* Theme Toggle Button (Integrated seamlessly inside main navbar) */
+.theme-toggle-btn,
 .theme-toggle-link {
   display: inline-flex !important;
   align-items: center !important;
   justify-content: center !important;
   cursor: pointer !important;
-  padding: 0 0.5rem !important;
+  padding: 0.25rem 0.5rem !important;
+  margin: 0 !important;
   font-size: 1.05em !important;
   color: #475569 !important;
   line-height: inherit !important;
   text-decoration: none !important;
   background: transparent !important;
   border: none !important;
+  border-radius: 4px !important;
   box-shadow: none !important;
-  outline: none !important;
-  transition: color 0.2s ease, transform 0.2s ease !important;
+  outline: none;
+  transition: color 0.2s ease, transform 0.2s ease, box-shadow 0.2s ease !important;
 
   &:hover {
     color: #0f172a !important;
     transform: scale(1.15);
     background: transparent !important;
     text-decoration: none !important;
+  }
+
+  &:focus-visible {
+    outline: 2px solid #6366f1 !important;
+    outline-offset: 2px !important;
   }
 
   &:before {
@@ -338,6 +346,7 @@ html[data-theme="dark"] {
     }
   }
 
+  .theme-toggle-btn,
   .theme-toggle-link {
     color: #f59e0b !important;
     background: transparent !important;
@@ -348,6 +357,11 @@ html[data-theme="dark"] {
       text-shadow: 0 0 10px rgba(245, 158, 11, 0.6);
       transform: scale(1.15);
       background: transparent !important;
+    }
+
+    &:focus-visible {
+      outline: 2px solid #fbbf24 !important;
+      outline-offset: 2px !important;
     }
   }
 

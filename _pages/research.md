@@ -1,7 +1,11 @@
 ---
 layout: single
 title: "Research & Publications"
+description: "Doctoral research agenda, under-review manuscripts, peer-reviewed conference proceedings, and research codebases in cooperative Multi-Agent Reinforcement Learning by Hamza Ba-mohammed."
 permalink: /research/
+redirect_from:
+  - /academia/publications/
+  - /academia/publications.html
 author_profile: false
 classes: full-width
 toc: true
@@ -31,6 +35,7 @@ My research connects effects on the directly targeted agent, the responses of it
 * **Experimental Investigation:** Implementing a simulation-based experimental framework studying adversarial robustness in cooperative MARL tasks. The platform compares varying degrees of policy heterogeneity and communication structures under adversarial perturbations.
 * **Connecting Analysis and Evidence:** Evaluating whether analytical metrics faithfully describe interacting agent behaviors, establishing criteria to distinguish damaging peer responses from useful recovery, and assessing the role of diversity across tasks without assuming that heterogeneity unconditionally improves robustness.
 * **Prospective Empirical Direction:** Exploring execution-time protection inspired by collective biological systems (such as artificial immune systems and differentiated fault detection), with **multi-robot teams** as a primary prospective testbed.
+* **Research Artifacts & Preprints:** Presentation slide decks, simulation codebases, and experimental data will be linked here as forthcoming manuscripts and benchmark releases are finalized.
 
 ---
 
@@ -41,14 +46,13 @@ My research connects effects on the directly targeted agent, the responses of it
   <div class="authors"><strong>Hamza Ba-mohammed</strong>, Latifa El Bouga, Amine Andam, Mostapha Essoullami, Douae Benhlima, Jamal Bentahar, Mustapha Hedabou</div>
   <div class="venue"><i class="fas fa-file-alt"></i> Under Major Revision — ACM Computing Surveys (ACM CSUR)</div>
   <div class="abstract">
-    <p>This survey provides a comprehensive, taxonomy-driven synthesis of adversarial multi-agent deep reinforcement learning (adversarial MARL), establishing formal connections between multi-agent decision models (Markov games, POSGs, Dec-POMDPs) and game-theoretic solution concepts including min-max reasoning, Stackelberg formulations, and robust equilibria under observational and transition uncertainty.</p>
+    <p>A comprehensive, taxonomy-driven synthesis of adversarial multi-agent deep reinforcement learning (adversarial MARL). The survey maps formal decision models (Markov games, POSGs, Dec-POMDPs) to game-theoretic solution concepts, critically examining observational and transition uncertainties.</p>
     
-    <p><strong>Scope &amp; Conceptual Framework:</strong></p>
+    <p><strong>Key Contributions:</strong></p>
     <ul>
-      <li><strong>Multi-Dimensional Attack Taxonomy:</strong> Formulates and compares adversarial strategies across attack timing (training-time poisoning vs. execution-time evasion), threat-model access privileges (white-box, gray-box, black-box), victim selection and cardinality, and bounded perturbation spaces.</li>
-      <li><strong>Threat Model Realism:</strong> Analyzes practical access assumptions in multi-agent systems, critically examining under-explored attack surfaces including inter-agent communication channels and restricted-information settings.</li>
-      <li><strong>Algorithmic &amp; Benchmark Analysis:</strong> Investigates vulnerability profiles across leading multi-agent architectures (comparing on-policy methods and value-factorization approaches) under standard multi-agent benchmarks.</li>
-      <li><strong>Functional Defense Categorization:</strong> Structures defense literature around robustness evaluation versus robustness enhancement, synthesizing trade-offs among adversarial training, game-theoretic formulations, regularized objectives, and execution-time certified protections.</li>
+      <li><strong>Multi-Dimensional Attack Taxonomy:</strong> Classifies adversarial strategies across perturbation timing (poisoning vs. evasion), threat-model access (white-box, gray-box, black-box), victim cardinality, and communication attack surfaces.</li>
+      <li><strong>Functional Defense Categorization:</strong> Structures defenses into robustness evaluation vs. enhancement (adversarial training, regularized objectives, certified bounds, and execution-time shields).</li>
+      <li><strong>Critical Synthesis of Published Benchmarks:</strong> Reviews empirical methodologies, threat realism, and evaluation gaps across standard multi-agent benchmark environments.</li>
     </ul>
     <div style="margin-top: 1em;">
       <a href="https://github.com/HamBa-m/sci-scraper" class="btn btn--inverse btn--small" target="_blank"><i class="fab fa-github"></i> Companion Pipeline: sci-scraper</a>
@@ -81,7 +85,7 @@ My research connects effects on the directly targeted agent, the responses of it
   <div class="authors"><strong>Hamza Ba-mohammed</strong> (Engineering Capstone, Ai Movement UM6P)</div>
   <div class="venue"><i class="fas fa-satellite"></i> AI Movement UM6P Research Center (2024)</div>
   <div class="abstract">
-    Formulated collaborative target acquisition and coverage optimization in Agile Earth Observation Satellites (AEOS) as a Decentralized Markov Decision Process (Dec-MDP / Dec-POMDP). Extended the PyLEO simulation platform, benchmarked single-agent and multi-agent algorithms (DQN, DDPG, and MADDPG), and explored multi-agent coordination under communication-constrained orbital dynamics.
+    Formulated collaborative target acquisition and coverage optimization in Agile Earth Observation Satellites (AEOS) as a Decentralized Partially Observable Markov Decision Process (Dec-POMDP). Extended the PyLEO simulation platform, benchmarked single-agent RL baselines (independent DQN, DDPG) alongside multi-agent coordination methods (MADDPG), and explored cooperative scheduling under communication-constrained orbital dynamics.
   </div>
 </div>
 

@@ -22,10 +22,10 @@
             </li>
           {%- endfor -%}
           <li class="masthead__menu-item">
-            <a id="theme-toggle" class="theme-toggle-link" href="javascript:void(0);" role="button" aria-label="Toggle theme" title="Toggle dark/light mode">
+            <button id="theme-toggle" class="theme-toggle-btn" type="button" aria-label="Toggle theme" title="Toggle dark/light mode">
               <i class="fas fa-moon" id="theme-icon-moon"></i>
               <i class="fas fa-sun" id="theme-icon-sun" style="display: none;"></i>
-            </a>
+            </button>
           </li>
         </ul>
         {% if site.search == true %}

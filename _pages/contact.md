@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Contact"
+description: "Direct institutional contact details and academic profiles for Hamza Ba-mohammed, PhD Candidate at UM6P College of Computing."
 permalink: /contact/
 author_profile: true
 classes: wide

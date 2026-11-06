@@ -1,7 +1,11 @@
 ---
 layout: single
 title: "Writing & Perspectives"
+description: "Technical essays, research perspectives, and reflections on reinforcement learning, doctoral studies, and AI systems by Hamza Ba-mohammed."
 permalink: /writing/
+redirect_from:
+  - /blog/
+  - /blog.html
 author_profile: true
 classes: wide
 ---

@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Hamza Ba-mohammed"
+description: "Hamza Ba-mohammed — PhD Candidate at UM6P College of Computing researching adversarial robustness, observation perturbation propagation, and execution-time protection in cooperative MARL."
 permalink: /
 author_profile: true
 classes: wide
@@ -8,11 +9,13 @@ classes: wide
 
 I am a **PhD Candidate in Computer Science / Artificial Intelligence** at the [College of Computing (CC)](https://cc.um6p.ma/), [Mohammed VI Polytechnic University (UM6P)](https://um6p.ma/), Morocco. 
 
-My doctoral research is co-supervised by:
+My research investigates **adversarial robustness in cooperative Multi-Agent Reinforcement Learning (MARL)**: *when autonomous agents coordinate in shared environments, how do localized observation perturbations propagate across interacting teammates, and how can we design adaptive, parameter-preserving execution-time defenses to guarantee collective resilience?*
+
+I am co-supervised by:
 * **[Prof. Mustapha Hedabou](https://scholar.google.com/citations?user=n-0iO4sAAAAJ)** — Mohammed VI Polytechnic University (UM6P), Morocco
 * **[Prof. Jamal Bentahar](https://scholar.google.com/citations?user=0Q25J-gAAAAJ)** — Khalifa University, United Arab Emirates & Concordia University, Canada
 
-Previously, I graduated with a State-Engineer Diploma (Equivalent to M.Sc. in Engineering) in Artificial Intelligence from the [Higher National School of Computer Sciences (ENSIAS)](http://ensias.um5.ac.ma/), Rabat, following two years of intensive Classes Préparatoires (MPSI/MP) at Lycée Moulay Youssef.
+Previously, I received a State-Engineer Diploma in Artificial Intelligence Engineering (accredited as equivalent to an M.Sc. in Engineering) from [ENSIAS](http://ensias.um5.ac.ma/), Rabat, following two years of intensive Classes Préparatoires (MPSI/MP) at Lycée Moulay Youssef.
 
 <div class="action-buttons">
   <a href="/research/" class="btn btn--primary"><i class="fas fa-book-open"></i> Research & Publications</a>
@@ -39,12 +42,9 @@ My research investigates the relationship between **individual vulnerability and
 
 ### Recent News
 
-* **[Under Revision]** First author of the comprehensive survey paper **“A Survey on Adversarial Multi-Agent Deep Reinforcement Learning”** (with L. El Bouga, A. Andam, M. Essoullami, D. Benhlima, J. Bentahar, and M. Hedabou), currently under **major revision at *ACM Computing Surveys (ACM CSUR)***.
-* **[Presentation]** Presented our research at the **UM6P Doctoral Days 2025** at the Benguerir campus.
-* **[Honors]** Awarded **1st Rank & Global Nominee** at the *NASA Space Apps Challenge 2024* (Ifrane Section) and qualified for international global judging.
-* **[Award]** Secured **1st Prize** at the *Connected Innovation and Technology X.0 (ICCTX.0 2024)* international contest organized by the UTT Foundation (France) and ENSAM Rabat.
-* **[Award]** Won **1st Prize** at the *Moroccan Days For Data Science (MDFDS 2024)* hackathon.
-* **[Publication]** Co-authored *“Assessing the Evolution of Meteorological Seasons and Climate Changes Using Hierarchical Clustering”*, published in *Springer ICAISE Proceedings (2024)*.
+* **[Jan 2026]** Presented doctoral research on observation perturbation propagation and behavioral heterogeneity in cooperative MARL at the **UM6P Doctoral Days 2025** (Benguerir).
+* **[Dec 2025]** First author of comprehensive survey paper **“A Survey on Adversarial Multi-Agent Deep Reinforcement Learning”** (with L. El Bouga, A. Andam, M. Essoullami, D. Benhlima, J. Bentahar, and M. Hedabou), currently under **major revision at *ACM Computing Surveys (ACM CSUR)***.
+* **[Nov 2024]** Awarded **1st Rank & Global Nominee** at the *NASA Space Apps Challenge 2024* (Ifrane Section) and qualified for international global judging.
 
 ---
 
@@ -55,7 +55,7 @@ My research investigates the relationship between **individual vulnerability and
   <div class="authors"><strong>Hamza Ba-mohammed</strong>, Latifa El Bouga, Amine Andam, Mostapha Essoullami, Douae Benhlima, Jamal Bentahar, Mustapha Hedabou</div>
   <div class="venue"><i class="fas fa-hourglass-half"></i> Under Major Revision — ACM Computing Surveys (ACM CSUR)</div>
   <div class="abstract">
-    A comprehensive synthesis connecting multi-agent decision formalisms (Markov games, POSGs, Dec-POMDPs) to game-theoretic solution concepts. Develops a multi-dimensional attack taxonomy, examines threat-model access assumptions, provides a functional defense categorization (robustness evaluation vs. enhancement), and outlines open directions across multi-agent benchmarks.
+    A comprehensive synthesis connecting multi-agent decision models (Markov games, POSGs, Dec-POMDPs) to game-theoretic solution concepts. Develops a multi-dimensional attack taxonomy, examines threat-model access assumptions, provides a functional defense categorization (robustness evaluation vs. enhancement), and critically reviews published empirical benchmarks.
   </div>
   <div style="margin-top: 0.8em;">
     <a href="https://github.com/HamBa-m/sci-scraper" class="btn btn--inverse btn--small" target="_blank"><i class="fab fa-github"></i> Companion Tool: sci-scraper</a>

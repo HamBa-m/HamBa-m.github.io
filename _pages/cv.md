@@ -1,7 +1,11 @@
 ---
 layout: single
 title: "Curriculum Vitae"
+description: "Curriculum Vitae of Hamza Ba-mohammed — Doctoral researcher at UM6P, engineering background from ENSIAS, research experience, publications, awards, and leadership."
 permalink: /cv/
+redirect_from:
+  - /cv/projects/
+  - /cv/projects.html
 author_profile: false
 classes: full-width
 toc: true
@@ -39,10 +43,10 @@ toc_label: "CV Sections"
   * [Prof. Mustapha Hedabou](https://scholar.google.com/citations?user=n-0iO4sAAAAJ) — Mohammed VI Polytechnic University (UM6P), Morocco
   * [Prof. Jamal Bentahar](https://scholar.google.com/citations?user=0Q25J-gAAAAJ) — Khalifa University, UAE & Concordia University, Canada
 
-### **State-Engineer Diploma in Computer Science (Equivalent to M.Sc. in Engineering)**
-* **Institution:** [Higher National School of Computer Sciences (ENSIAS)](http://ensias.um5.ac.ma/), Rabat, Morocco
+### **State-Engineer Diploma in Artificial Intelligence Engineering (Diplôme d'Ingénieur d'État en Intelligence Artificielle)**
+* **Institution:** [Higher National School of Computer Science and Systems Analysis (ENSIAS)](http://ensias.um5.ac.ma/), Rabat, Morocco
 * **Period:** 2021 – 2024
-* **Major:** Artificial Intelligence Engineering (2IA) — Research Engineer Track
+* **Accreditation:** Five-year post-secondary national diploma accredited as equivalent to an M.Sc. in Engineering (Research Track: 2IA)
 * **Graduation Jury:** Dr. Abdelatif El Afia (Supervisor), Dr. Ilham Berrada (Director), Dr. Mohamed Naoum <a href="/assets/images/gallery/graduation_jury.jpg" target="_blank" class="proof-link"><i class="fas fa-camera"></i> Defense Jury</a>
 
 ### **Classes Préparatoires aux Grandes Écoles (CPGE)**
@@ -71,8 +75,13 @@ toc_label: "CV Sections"
 ### **AI Research Intern (Engineering Capstone)**
 * **Lab:** [AI Movement — International AI Center of Morocco](https://aim.um6p.ma/en/home/), UM6P, Rabat <a href="/assets/images/gallery/ai_mov.jpg" target="_blank" class="proof-link"><i class="fas fa-camera"></i> Lab Photo</a>
 * **Period:** Feb 2024 – Aug 2024
-* Modeled collaborative target acquisition and coverage optimization in Agile Earth Observation Satellite (AEOS) constellations as a Decentralized Markov Decision Process (Dec-POMDP).
-* Extended and maintained the PyLEO simulation environment; evaluated DQN, DDPG, and MADDPG multi-agent algorithms under observation and communication constraints.
+* Modeled collaborative target acquisition and coverage optimization in Agile Earth Observation Satellite (AEOS) constellations as a Decentralized Partially Observable Markov Decision Process (Dec-POMDP).
+* Extended and maintained the PyLEO simulation environment; evaluated single-agent RL baselines (independent DQN, DDPG) and centralized-training-with-decentralized-execution multi-agent algorithms (MADDPG) under observation and communication constraints.
+
+### **Independent AI Consultant & Advisor**
+* **Context:** Independent Advisory (Morocco & Remote)
+* **Period:** 2023 – 2024
+* Advised engineering teams and startups on AI system architecture, machine learning roadmaps, NLP/LLM integration, and algorithmic feasibility prior to commencing doctoral studies.
 
 ### **Research Assistant Intern**
 * **Lab:** [AI Movement](https://aim.um6p.ma/en/home/), UM6P, Rabat
@@ -120,8 +129,6 @@ toc_label: "CV Sections"
 ---
 
 ## Past Leadership & Scientific Service
-
-*(Note: Prior community engagements; stepped down to maintain exclusive dedication to doctoral research.)*
 
 * **Co-Founder & Past President** — *Moroccan Mathematical Community (MMC)* (2022 – 2025)
   * Co-founded and directed national non-profit dedicated to democratizing mathematical culture, open science, creative pedagogy, and public outreach across Morocco.

@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "About Me"
+description: "Academic background, research philosophy, doctoral supervision, and contact details for Hamza Ba-mohammed, PhD Candidate at UM6P."
 permalink: /about/
 author_profile: true
 classes: wide
@@ -19,7 +20,7 @@ My doctoral investigations focus on **Adversarial Robustness in Cooperative Mult
 ### Academic Background
 
 * **Doctoral Cycle (2024 – Present):** College of Computing, UM6P. Investigating individual and collective vulnerabilities, policy heterogeneity, and execution-time defense mechanisms in cooperative MARL.
-* **Engineering Cycle (2021 – 2024):** State-Engineer Diploma (Equivalent to M.Sc. in Engineering) in Artificial Intelligence from the [Higher National School of Computer Sciences (ENSIAS)](http://ensias.um5.ac.ma/), Rabat (Research Engineer Track). My capstone research at the [AI Movement UM6P](https://aim.um6p.ma/en/home/) center focused on multi-agent deep reinforcement learning for Earth observation satellite constellations.
+* **Engineering Cycle (2021 – 2024):** State-Engineer Diploma in Artificial Intelligence Engineering (accredited as equivalent to an M.Sc. in Engineering) from the [Higher National School of Computer Science and Systems Analysis (ENSIAS)](http://ensias.um5.ac.ma/), Rabat (Research Engineer Track). My capstone research at the [AI Movement UM6P](https://aim.um6p.ma/en/home/) center focused on multi-agent deep reinforcement learning for Earth observation satellite constellations.
 * **Preparatory Classes (2019 – 2021):** Two years of intensive undergraduate mathematics and physics (MPSI/MP) at Centre CPGE Moulay Youssef, Rabat, leading to admission through the Concours National Commun (CNC).
 
 ---
@@ -28,7 +29,7 @@ My doctoral investigations focus on **Adversarial Robustness in Cooperative Mult
 
 My approach combines theoretical rigor with empirical engineering. With a strong background in competitive programming (algorithms, graph theory, combinatorics, and optimization), I prioritize transparent, white-box algorithmic formulations and reproducible code.
 
-Prior to focusing exclusively on my doctoral research, I co-founded and served as president of the **Moroccan Mathematical Community (MMC)** (2022–2025), a non-profit dedicated to democratizing mathematical culture, open science, creative pedagogy, and public outreach across Morocco. I have since stepped back from community administration to dedicate my full intellectual focus toward doctoral research in cooperative multi-agent reinforcement learning.
+Between 2022 and 2025, I co-founded and served as president of the **Moroccan Mathematical Community (MMC)**, directing national initiatives in mathematical culture, open science, creative pedagogy, and public outreach across Morocco.
 
 ---
 

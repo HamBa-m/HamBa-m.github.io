@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Academic & Pedagogical Resources"
+description: "Educational materials, lecture slides in machine learning, CPGE reference handbooks, and competitive programming problem sets authored by Hamza Ba-mohammed."
 permalink: /resources/
 author_profile: false
 classes: full-width
@@ -21,7 +22,7 @@ A collection of educational materials, lecture slides, handbooks, and problem se
 | 2024 | **General Introduction to AI** | Mines IT Club (ENIM) | <a class="btn btn--primary btn--small" href="https://drive.google.com/file/d/1T8Xe8gOFILKv_vcky7h144bm2LfhwVZR/view?usp=drive_link" target="_blank">Slides</a> |
 | 2024 | **The (Statistical) Theory of Learning** | ENSIAS | <a class="btn btn--primary btn--small" href="https://drive.google.com/file/d/11A7fDCAt6kvBDa2xcw1LzZj3HfnBPkEO/view?usp=drive_link" target="_blank">Slides</a> |
 | 2023 | **Neurons Coding Perceptrons** | ENSIAS | <a class="btn btn--primary btn--small" href="https://drive.google.com/file/d/14c7jNjnQunflxHlFlbok7-QCxgluZFPo/view?usp=drive_link" target="_blank">Slides</a> |
-| 2023 | **ExoWeb.AI: Exoplanet Detection** | AfAS / FSR | <a class="btn btn--primary btn--small" href="https://drive.google.com/file/d/14c7jNjnQunflxHlFlbok7-QCxgluZFPo/view?usp=drive_link" target="_blank">Slides</a> |
+| 2024 | **ExoWeb.AI: Exoplanet Detection** | AfAS / FSR | <a class="btn btn--primary btn--small" href="https://drive.google.com/file/d/14c7jNjnQunflxHlFlbok7-QCxgluZFPo/view?usp=drive_link" target="_blank">Slides</a> |
 | 2022 | **Introduction to ML and AI** | ENSIAS | <a class="btn btn--primary btn--small" href="https://drive.google.com/file/d/1s2rukvZvuThh2BZMyBuBlCdXBZTAZcx9/view?usp=drive_link" target="_blank">Slides</a> |
 | 2022 | **Applications of ML in Astronomy** | ENSIAS / ENIM | <a class="btn btn--primary btn--small" href="https://drive.google.com/file/d/172jL6CidRbIaP-qyOGzmCSu_ekbYm4Gw/view?usp=drive_link" target="_blank">Slides</a> |
 | 2022 | **Non-Linear Data Structures** | ENSIAS | <a class="btn btn--primary btn--small" href="https://drive.google.com/file/d/1GHy48BJ2H7mskYYcQsUiiCf3fSpaP7Fe/view?usp=drive_link" target="_blank">Slides</a> |

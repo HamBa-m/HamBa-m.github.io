@@ -2,6 +2,7 @@ destination: _site
 permalink: /:categories/:title/
 locale: "en-US"
 title: "Hamza Ba-mohammed"
+name: "Hamza Ba-mohammed"
 description: "PhD Candidate in Cooperative Multi-Agent Reinforcement Learning at the College of Computing, Mohammed VI Polytechnic University (UM6P)."
 baseurl: ""
 url: "https://hambam.top"
@@ -71,6 +72,7 @@ plugins:
   - jekyll-remote-theme
   - jekyll-sitemap
   - jekyll-feed
+  - jekyll-redirect-from
 
 analytics:
   provider: "google-gtag"

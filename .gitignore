@@ -9,3 +9,7 @@ vendor
 
 # VSCode settings
 .vscode/
+
+# Archives
+*.rar
+*.zip
