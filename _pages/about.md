@@ -6,16 +6,31 @@ author_profile: true
 classes: wide
 ---
 
-I'm an **Artificial Intelligence (AI) research engineer** who graduated from the Higher National School of Computer Sciences (ENSIAS) at Rabat, working at the intersection of cutting-edge research and real-world applications. Currently, I'm pursuing a PhD at the College of Computing in the University Mohammed VI Polytechnic (UM6P) focused on adversarial attacks and defenses in multi-agent reinforcement learning systems, exploring their integration with bio-inspired algorithms and their applications in Agentic AI and 6G networks.
+I am a **Doctoral Researcher in Computer Science / Artificial Intelligence** at the [College of Computing (CC)](https://cc.um6p.ma/), [Mohammed VI Polytechnic University (UM6P)](https://um6p.ma/), Morocco. My research is co-supervised by **[Prof. Mustapha Hedabou](https://scholar.google.com/citations?user=n-0iO4sAAAAJ)** and **[Prof. Jamal Bentahar](https://scholar.google.com/citations?user=0Q25J-gAAAAJ)**.
 
-Since starting my AI journey in 2021, I've gained diverse experience across industries like renewable energies, climatology, astronomy, rocket science, satellites and UAVs, medicine, supply chain, construction, education, sports, retail and sales, and others. Likewise, I've accumulated expertise working with multiple AI, data science, and computer science subareas and techniques.
+My doctoral investigations focus on **Adversarial Multi-Agent Reinforcement Learning (MARL)**. I study how multi-agent systems behave under adversarial perturbations—including observation tampering, action manipulation, and compromised communication channels—and design algorithmic defense mechanisms to guarantee robustness and safe coordination in decentralized systems (Dec-POMDPs).
 
-I also offer **AI consulting services**, helping businesses, organizations, and even individuals leverage advanced AI solutions to solve complex challenges, integrate AI in their workflow, or simply learn how to use new digital services and technologies.
+---
 
-Beyond my professional work, I've pursued passion projects for learning and fun, earning top ranks in scientific and entrepreneurial competitions while collaborating with peers from various fields. I've also been engaged in many school clubs in my past schools, where I developed a great network of friends and peers, as well as many soft skills, most importantly communication, teaching, leadership, and project management.
+### Academic Background
 
-As a competitive programmer since 2019, I'm active on platforms like Codeforces, Kattis, and the Moroccan Competitive Programming Events like JNJD and Game of Codes, with a focus on graphs, probabilities, combinatorics, and geometry.
+* **Doctoral Cycle (2024 – Present):** College of Computing, UM6P. Investigating security, Byzantine robustness, and adversarial threat models in MARL.
+* **Engineering Cycle (2021 – 2024):** State-Engineer Diploma (Equivalent to M.Sc. in Engineering) in Artificial Intelligence from the [Higher National School of Computer Sciences (ENSIAS)](http://ensias.um5.ac.ma/), Rabat (Research Engineer Track). My capstone research at the [AI Movement UM6P](https://aim.um6p.ma/en/home/) center focused on multi-agent deep reinforcement learning for Earth observation satellite constellations.
+* **Preparatory Classes (2019 – 2021):** Two years of intensive undergraduate mathematics and physics (MPSI/MP) at Centre CPGE Moulay Youssef, Rabat, leading to admission through the Concours National Commun (CNC).
 
-I'm also a proud Moroccan social activist, dedicated to empowering my community by promoting knowledge to address socio-economic inequalities, advance human development, and preserve Moroccan cultural identity through accessible mathematical content and logical reasoning. I co-founded the **Moroccan Mathematical Community** in 2022 to drive this mission.
+---
 
-In my free time, I explore art and meditation, from painting and sculpture to writing philosophical essays.
+### Research Philosophy & Experience
+
+My approach combines theoretical rigor with empirical engineering. With a strong background in competitive programming (algorithms, graph theory, combinatorics, and optimization), I prioritize transparent, white-box algorithmic formulations and reproducible code.
+
+Prior to focusing exclusively on my doctoral research, I co-founded and served as president of the **Moroccan Mathematical Community (MMC)** (2022–2025), where I worked to promote competitive mathematics and problem-solving among students across Morocco. I have since stepped back from community administration to direct my full intellectual focus toward advancing the state of the art in Multi-Agent Reinforcement Learning.
+
+---
+
+### Contact & Collaboration
+
+I am always interested in discussing technical ideas, potential research collaborations, and visiting research / internship opportunities related to multi-agent reinforcement learning, adversarial robustness, and game-theoretic safety.
+
+* **Email:** [hamza.bamohammed@um6p.ma](mailto:hamza.bamohammed@um6p.ma)
+* **Office:** College of Computing, UM6P, Benguerir / Rabat, Morocco

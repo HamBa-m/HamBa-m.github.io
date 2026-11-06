@@ -2,70 +2,74 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
-$doc-font-size: 14px;
+$doc-font-size: 15px;
 
-// 1. Define your Custom Purple
-// Note: Since Neon uses a black background, this dark purple might be low contrast.
-// If it's too hard to read, try a lighter "Neon Purple" like: #9D50FF
-$primary-color: #9D50FF;
+// Primary Accent
+$primary-color: #4b3869;
+$link-color: #3b5998;
 
-// 2. Import the Neon Skin (This loads the dark background and neon styling)
-@import "minimal-mistakes/skins/neon";
+// Import the Air Skin
+@import "minimal-mistakes/skins/air";
 
-// 3. Import the Main Theme
+// Import the Main Theme
 @import "minimal-mistakes";
 
-// 4. Custom Adjustments (Optional)
-// This forces the sidebar and background to be fully black/dark to match the skin perfectly
-body {
-  background-color: #000 !important;
-}
-
-/* --- Banner Customization (Fixed) --- */
-
-.page__hero--overlay {
-  /* 1. Control the Height */
-  min-height: 400px !important; 
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-
-  /* 2. Control the Title Color (The Big Text) */
-  .page__title {
-    color: #000000 !important; /* Forces BLACK */
-    text-shadow: none !important; /* Removes shadow so black is crisp */
-  }
-
-  /* 3. Control the Caption Color (The Small Text) */
-  .page__hero-caption {
-    color: #ffffff !important; /* Forces BLACK */
-  }
-  
-  /* 4. Control Links inside the Banner (if any) */
-  a {
-    color: #ffffff !important;
-    border-bottom-color: #000000 !important;
-  }
-}
-
-/* --- Fix Spacing Above Titles --- */
-
-/* 1. Fix the Main Page Title (e.g. "Education", "About Me") */
+/* Custom Academic Styling */
 .page__title {
   margin-top: 0 !important;
   padding-top: 0 !important;
+  font-weight: 700;
 }
 
-// /* 2. Fix the alignment so it matches the Sidebar height */
-// .page__inner-wrap {
-//   margin-top: 0 !important;
-//   padding-top: 0 !important;
-// }
-
-/* 3. Fix the Headers inside Cards/Notice Blocks (e.g. "Speaker: ...") */
 .notice--primary h3, 
 .notice--info h3, 
 .notice--warning h3, 
 .notice--success h3 {
   margin-top: 0 !important;
+}
+
+/* Action button bar */
+.action-buttons {
+  margin: 1.2em 0 1.5em 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.action-buttons .btn {
+  margin: 0 !important;
+}
+
+/* Publication and Research entries */
+.research-entry {
+  margin-bottom: 1.5em;
+  padding: 1.2em;
+  border-left: 4px solid $primary-color;
+  background-color: rgba(75, 56, 105, 0.04);
+  border-radius: 0 4px 4px 0;
+}
+
+.research-entry h4 {
+  margin-top: 0;
+  margin-bottom: 0.3em;
+  font-size: 1.1em;
+}
+
+.research-entry .authors {
+  font-size: 0.95em;
+  color: #555;
+  margin-bottom: 0.4em;
+}
+
+.research-entry .venue {
+  font-size: 0.9em;
+  font-weight: 600;
+  color: #2b547e;
+  margin-bottom: 0.6em;
+}
+
+.research-entry .abstract {
+  font-size: 0.92em;
+  line-height: 1.5;
+  color: #333;
 }
