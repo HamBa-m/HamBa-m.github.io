@@ -113,15 +113,66 @@ $link-color: #2b547e;
 }
 
 /* ==========================================================================
-   LAYOUT FIX: Pages without left author sidebar (CV, Research, Resources)
-   Expands content to start from the left margin, preventing cramped columns.
+   FULL-WIDTH LAYOUT (Pages without left sidebar: CV, Research, Resources)
+   Expands content to start from the left edge while preserving the right TOC.
    ========================================================================== */
 
-@media (min-width: 64em) {
-  #main > .page:first-child {
-    float: none;
-    margin-left: 0;
-    width: 100%;
+.layout--single.full-width {
+  @media (min-width: 64em) {
+    #main {
+      max-width: 1280px;
+      padding-inline: 1.5em;
+    }
+
+    .page {
+      float: none !important;
+      margin-inline-start: 0 !important;
+      margin-inline-end: 0 !important;
+      width: 100% !important;
+      padding-inline-end: 290px !important;
+    }
+
+    .sidebar__right {
+      position: absolute !important;
+      top: 0 !important;
+      inset-inline-end: 0 !important;
+      width: 270px !important;
+      margin-inline-end: 0 !important;
+      padding-inline-start: 1em !important;
+      z-index: 10 !important;
+
+      &.sticky {
+        position: -webkit-sticky !important;
+        position: sticky !important;
+        top: 2em !important;
+        float: right !important;
+      }
+    }
+  }
+
+  @media (min-width: 80em) {
+    .page {
+      padding-inline-end: 310px !important;
+    }
+
+    .sidebar__right {
+      width: 290px !important;
+    }
+  }
+
+  @media (max-width: 63.99em) {
+    .page {
+      width: 100% !important;
+      padding-inline-end: 0 !important;
+      float: none !important;
+    }
+
+    .sidebar__right {
+      position: static !important;
+      width: 100% !important;
+      float: none !important;
+      margin-bottom: 2em !important;
+    }
   }
 }
 
@@ -201,16 +252,16 @@ $link-color: #2b547e;
 /* Theme Toggle Button */
 .theme-toggle-btn {
   background: transparent;
-  border: 1px solid #cbd5e1;
-  color: #475569;
+  border: none;
+  color: #64748b;
   cursor: pointer;
   padding: 0;
-  margin-inline-start: 0.75rem;
-  border-radius: 6px;
+  margin-inline-start: 0.85rem;
+  border-radius: 50%;
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  font-size: 0.95em;
+  font-size: 1.1em;
   height: 32px;
   width: 32px;
   flex: none;
@@ -219,7 +270,6 @@ $link-color: #2b547e;
 
   &:hover {
     color: #0f172a;
-    border-color: #94a3b8;
     background-color: #f1f5f9;
   }
 }
@@ -281,14 +331,13 @@ html[data-theme="dark"] {
   }
 
   .theme-toggle-btn {
-    border-color: #334155 !important;
-    color: #fbbf24 !important;
-    background-color: #111827 !important;
+    border: none !important;
+    color: #f59e0b !important;
+    background-color: transparent !important;
 
     &:hover {
-      color: #fef08a !important;
-      border-color: #64748b !important;
-      background-color: #1e293b !important;
+      color: #fbbf24 !important;
+      background-color: rgba(255, 255, 255, 0.08) !important;
     }
   }
 

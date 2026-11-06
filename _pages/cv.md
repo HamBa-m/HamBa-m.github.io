@@ -3,6 +3,7 @@ layout: single
 title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: false
+classes: full-width
 toc: true
 toc_sticky: true
 toc_label: "CV Sections"

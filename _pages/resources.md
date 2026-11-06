@@ -3,6 +3,7 @@ layout: single
 title: "Academic & Pedagogical Resources"
 permalink: /resources/
 author_profile: false
+classes: full-width
 toc: true
 toc_sticky: true
 toc_label: "Resource Types"
