@@ -3,7 +3,6 @@ layout: single
 title: "Research & Publications"
 permalink: /research/
 author_profile: false
-classes: wide
 toc: true
 toc_sticky: true
 toc_label: "On This Page"

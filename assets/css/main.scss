@@ -113,33 +113,16 @@ $link-color: #2b547e;
 }
 
 /* ==========================================================================
-   LAYOUT OPTIMIZATION (Prevent cramped central content column)
+   LAYOUT FIX: Pages without left author sidebar (CV, Research, Resources)
+   Expands content to start from the left margin, preventing cramped columns.
    ========================================================================== */
 
-/* Expand main container max-width on large screens */
-#main {
-  max-width: 1400px;
-  margin-left: auto;
-  margin-right: auto;
-  padding-left: 2em;
-  padding-right: 2em;
-}
-
-/* Give wide pages breathing room */
-.layout--single.wide .page {
-  float: none;
-  width: 100%;
-}
-
-/* Make right sticky TOC compact so central content has maximal width */
-.sidebar__right {
-  width: 260px !important;
-}
-
-.sidebar__right.sticky {
-  position: -webkit-sticky;
-  position: sticky;
-  top: 2em;
+@media (min-width: 64em) {
+  #main > .page:first-child {
+    float: none;
+    margin-left: 0;
+    width: 100%;
+  }
 }
 
 /* Publication and Research entries */
@@ -178,19 +161,4 @@ $link-color: #2b547e;
   font-size: 0.93em;
   line-height: 1.6;
   color: #334155;
-}
-
-.research-card {
-  background-color: #ffffff;
-  border: 1px solid #e2e8f0;
-  border-radius: 8px;
-  padding: 1.4em;
-  margin-bottom: 1.4em;
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
-}
-
-.research-card h3 {
-  margin-top: 0;
-  color: #4b3869;
-  font-size: 1.15em;
 }
