@@ -42,7 +42,7 @@ toc_label: "CV Sections"
 * **Institution:** [Higher National School of Computer Sciences (ENSIAS)](http://ensias.um5.ac.ma/), Rabat, Morocco
 * **Period:** 2021 – 2024
 * **Major:** Artificial Intelligence Engineering (2IA) — Research Engineer Track
-* **Graduation Jury:** Dr. Abdelatif El Afia (Supervisor), Dr. Ilham Berrada (Director), Dr. Mohamed Naoum
+* **Graduation Jury:** Dr. Abdelatif El Afia (Supervisor), Dr. Ilham Berrada (Director), Dr. Mohamed Naoum <a href="/assets/images/gallery/graduation_jury.jpg" target="_blank" class="proof-link"><i class="fas fa-camera"></i> Defense Jury</a>
 
 ### **Classes Préparatoires aux Grandes Écoles (CPGE)**
 * **Institution:** Centre CPGE Moulay Youssef, Rabat, Morocco
@@ -65,9 +65,10 @@ toc_label: "CV Sections"
 * **Period:** 2024 – Present
 * Theoretical and empirical investigation of adversarial robustness, observation perturbation propagation, behavioral heterogeneity, and execution-time protection in cooperative MARL.
 * First author of the comprehensive survey *“A Survey on Adversarial Multi-Agent Deep Reinforcement Learning”* (*under major revision at ACM Computing Surveys*).
+* Presented doctoral research poster at UM6P Doctoral Days 2025 (Benguerir). <a href="/assets/images/gallery/doctoral_days_2025.jpeg" target="_blank" class="proof-link"><i class="fas fa-camera"></i> Poster Presentation</a>
 
 ### **AI Research Intern (Engineering Capstone)**
-* **Lab:** [AI Movement — International AI Center of Morocco](https://aim.um6p.ma/en/home/), UM6P, Rabat
+* **Lab:** [AI Movement — International AI Center of Morocco](https://aim.um6p.ma/en/home/), UM6P, Rabat <a href="/assets/images/gallery/ai_mov.jpg" target="_blank" class="proof-link"><i class="fas fa-camera"></i> Lab Photo</a>
 * **Period:** Feb 2024 – Aug 2024
 * Modeled collaborative target acquisition and coverage optimization in Agile Earth Observation Satellite (AEOS) constellations as a Decentralized Markov Decision Process (Dec-POMDP).
 * Extended and maintained the PyLEO simulation environment; evaluated DQN, DDPG, and MADDPG multi-agent algorithms under observation and communication constraints.
@@ -91,13 +92,13 @@ toc_label: "CV Sections"
 
 ## Honors & Awards
 
+* **1st Prize** — *Connected Innovation & Technology X.0 (ICCTX.0)* (2024). Multi-site international innovation contest organized by the UTT Foundation (France), ENSAM Rabat, and Da Nang University. Project: SparkBuild (GCN and genetic optimization). <a href="/assets/images/gallery/icctx1.jpg" target="_blank" class="proof-link"><i class="fas fa-award"></i> Award Ceremony</a>
+* **1st Prize** — *Moroccan Days For Data Science (MDFDS)* (2024). Datathon organized by CODE-ESI. Project: Pharma Wizard (supply-chain demand forecasting). <a href="/assets/images/gallery/mdfds_1.JPG" target="_blank" class="proof-link"><i class="fas fa-award"></i> Award Ceremony</a>
 * **1st Rank & Global Nominee** — *NASA Space Apps Challenge* (Ifrane Section, 2024). Qualified for global international judging for an AI and Earth observation platform optimizing agricultural water allocation.
-* **1st Prize** — *Connected Innovation & Technology X.0 (ICCTX.0)* (2024). Multi-site international innovation contest organized by the UTT Foundation (France), ENSAM Rabat, and Da Nang University. Project: SparkBuild (GCN and genetic optimization).
-* **1st Prize** — *Moroccan Days For Data Science (MDFDS)* (2024). Datathon organized by CODE-ESI. Project: Pharma Wizard (supply-chain demand forecasting).
-* **Tribute for Scientific Excellence** — *ENSIAS Graduation Ceremonies* (2023 & 2024) and *Rabat Science Festival (BNRM)* (2024).
+* **Tribute for Scientific Excellence** — *ENSIAS Graduation Ceremonies* (2023 & 2024) and *Rabat Science Festival (BNRM)* (2024). <a href="/assets/images/gallery/ensias_2.png" target="_blank" class="proof-link"><i class="fas fa-award"></i> ENSIAS Tribute</a> <a href="/assets/images/gallery/fsr_1.jpg" target="_blank" class="proof-link"><i class="fas fa-award"></i> Science Fair Tribute</a>
 * **3rd Rank & Global Nominee** — *NASA Space Apps Challenge* (Rabat Section, 2023). Recognized for self-supervised exoplanet detection framework.
-* **1st Rank** — *Mines Greenergy AI Competition* (ENIM Rabat, 2023). Reinforcement learning reward optimization for hybrid micro-grids.
-* **Bronze Medal** — *Game of Codes (GOC)* Competitive Programming Contest (INSEA, 2022).
+* **1st Rank** — *Mines Greenergy AI Competition* (ENIM Rabat, 2023). Reinforcement learning reward optimization for hybrid micro-grids. <a href="/assets/images/gallery/greenenergy_1.JPG" target="_blank" class="proof-link"><i class="fas fa-award"></i> Ceremony</a>
+* **Bronze Medal** — *Game of Codes (GOC)* Competitive Programming Contest (INSEA, 2022). <a href="/assets/images/gallery/goc_1.png" target="_blank" class="proof-link"><i class="fas fa-award"></i> Award</a>
 * **Istihqaq Merit Scholarship** — *Fondation Mohammed VI* (2019). Awarded to top national high-school graduates.
 
 ---
@@ -122,10 +123,12 @@ toc_label: "CV Sections"
 
 ### Invited Talks & Presentations
 * **Speaker:** *Machine Learning for Exoplanet Detection*, 4th Annual Meeting of the African Astronomical Society (AfAS), 2024.
-* **Speaker:** *AI and Smart Cities*, 6th Moroccan Robotics Competition (ENIM), 2024.
-* **Speaker:** *Introduction to Machine Learning & Embedded Systems*, Mines Makers Club (ENIM), 2024.
-* **Speaker:** *Applications of Kruskal's Algorithm in Power Optimization*, Rabat Science Festival, 2024.
-* **Jury Member:** Innovation in Robotics & AI, 10th Open Days Competition (INPT Rabat), 2024.
+* **Keynote Speaker:** *A Soft Introduction to Artificial Intelligence*, Scientific Days of FM6 Rabat, 2025. <a href="/assets/images/gallery/ana_fm6.jpg" target="_blank" class="proof-link"><i class="fas fa-microphone"></i> Keynote</a>
+* **Speaker:** *AI and Smart Cities*, 6th Moroccan Robotics Competition (ENIM), 2024. <a href="/assets/images/gallery/enim_minemakers_2.png" target="_blank" class="proof-link"><i class="fas fa-microphone"></i> Talk</a>
+* **Speaker:** *Introduction to Machine Learning & Embedded Systems*, Mines Makers Club (ENIM), 2024. <a href="/assets/images/gallery/enim_minemakers_1.png" target="_blank" class="proof-link"><i class="fas fa-chalkboard-teacher"></i> Workshop</a>
+* **Speaker:** *Introduction to AI and Machine Learning*, Mines IT Club (ENIM), 2024. <a href="/assets/images/gallery/enim_ml_intro.jpeg" target="_blank" class="proof-link"><i class="fas fa-certificate"></i> Certificate</a>
+* **Speaker:** *Applications of Kruskal's Algorithm in Power Optimization*, Rabat Science Festival, 2024. <a href="/assets/images/gallery/fsr_2024.jpg" target="_blank" class="proof-link"><i class="fas fa-chalkboard-teacher"></i> Workshop</a>
+* **Jury Member:** Innovation in Robotics & AI, 10th Open Days Competition (INPT Rabat), 2024. <a href="/assets/images/gallery/inpt_opendays_1.jpg" target="_blank" class="proof-link"><i class="fas fa-users"></i> Jury</a>
 
 ### Pedagogical Materials & Problem Setting
 * Author of the *ML Handbook: From Theory to Code* (ENSIAS, 2023) and CPGE Computer Science reference guides.
