@@ -114,49 +114,66 @@ $link-color: #2b547e;
 
 /* ==========================================================================
    FULL-WIDTH LAYOUT (Pages without left sidebar: CV, Research, Resources)
-   Expands content to start from the left edge while preserving the right TOC.
+   Expands content to start from the left edge while placing the right TOC
+   cleanly into the reserved right rail without squeezing main text.
    ========================================================================== */
 
 .layout--single.full-width {
   @media (min-width: 64em) {
     #main {
       max-width: 1280px;
+      margin-inline: auto;
       padding-inline: 1.5em;
+      width: 100%;
+      box-sizing: border-box;
     }
 
     .page {
       float: none !important;
-      margin-inline-start: 0 !important;
-      margin-inline-end: 0 !important;
+      margin-inline: 0 !important;
       width: 100% !important;
-      padding-inline-end: 290px !important;
+      padding-inline-end: 300px !important;
+      box-sizing: border-box;
+    }
+
+    .page__inner-wrap {
+      float: none !important;
+      width: 100% !important;
+      margin-inline: 0 !important;
+    }
+
+    .page__content {
+      position: relative;
+      float: none !important;
+      width: 100% !important;
+      margin-inline: 0 !important;
     }
 
     .sidebar__right {
-      position: absolute !important;
-      top: 0 !important;
-      inset-inline-end: 0 !important;
-      width: 270px !important;
-      margin-inline-end: 0 !important;
-      padding-inline-start: 1em !important;
+      position: -webkit-sticky !important;
+      position: sticky !important;
+      top: 2em !important;
+      float: right !important;
+      width: 275px !important;
+      margin-inline-end: -300px !important;
+      padding-inline-start: 1.25em !important;
+      padding-inline-end: 0 !important;
       z-index: 10 !important;
-
-      &.sticky {
-        position: -webkit-sticky !important;
-        position: sticky !important;
-        top: 2em !important;
-        float: right !important;
-      }
+      clear: both !important;
     }
   }
 
   @media (min-width: 80em) {
     .page {
-      padding-inline-end: 310px !important;
+      float: none !important;
+      margin-inline: 0 !important;
+      width: 100% !important;
+      padding-inline-end: 320px !important;
     }
 
     .sidebar__right {
-      width: 290px !important;
+      width: 295px !important;
+      margin-inline-end: -320px !important;
     }
   }
 
@@ -165,13 +182,16 @@ $link-color: #2b547e;
       width: 100% !important;
       padding-inline-end: 0 !important;
       float: none !important;
+      margin-inline: 0 !important;
     }
 
     .sidebar__right {
       position: static !important;
       width: 100% !important;
       float: none !important;
+      margin-inline-end: 0 !important;
       margin-bottom: 2em !important;
+      padding-inline: 0 !important;
     }
   }
 }
