@@ -21,11 +21,13 @@
               >{{ link.title }}</a>
             </li>
           {%- endfor -%}
+          <li class="masthead__menu-item">
+            <a id="theme-toggle" class="theme-toggle-link" href="javascript:void(0);" role="button" aria-label="Toggle theme" title="Toggle dark/light mode">
+              <i class="fas fa-moon" id="theme-icon-moon"></i>
+              <i class="fas fa-sun" id="theme-icon-sun" style="display: none;"></i>
+            </a>
+          </li>
         </ul>
-        <button id="theme-toggle" class="theme-toggle-btn" type="button" aria-label="Toggle theme" title="Toggle dark/light mode">
-          <i class="fas fa-moon" id="theme-icon-moon"></i>
-          <i class="fas fa-sun" id="theme-icon-sun" style="display: none;"></i>
-        </button>
         {% if site.search == true %}
         <button class="search__toggle" type="button">
           <span class="visually-hidden">{{ site.data.ui-text[site.locale].search_label | default: "Toggle search" }}</span>
@@ -41,4 +43,3 @@
     </div>
   </div>
 </div>
-
