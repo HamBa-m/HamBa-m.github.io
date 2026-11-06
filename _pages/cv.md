@@ -90,6 +90,21 @@ toc_label: "CV Sections"
 
 ---
 
+## Publications & Preprints
+
+### **Manuscripts Under Review**
+* **A Survey on Adversarial Multi-Agent Deep Reinforcement Learning**  
+  **Hamza Ba-mohammed**, Latifa El Bouga, Amine Andam, Mostapha Essoullami, Douae Benhlima, Jamal Bentahar, Mustapha Hedabou.  
+  *ACM Computing Surveys* (ACM CSUR), Manuscript #CSUR-2025-1595, Under Major Revision.  
+  *Presents a 7-dimensional attack taxonomy, functional defense categorization (robustness evaluation vs. enhancement), empirical threat-model access analysis, and an open-source reproducible pipeline across 61 surveyed papers.*
+
+### **Peer-Reviewed Conference Proceedings**
+* **Assessing the Evolution of Meteorological Seasons and Climate Changes Using Hierarchical Clustering**  
+  M. Lazaar, **H. Ba-mohammed**, H. Filali, Y.E.M.E. Alami.  
+  *Proceedings of the International Conference on Artificial Intelligence & Smart Environment (ICAISE 2024)*, Lecture Notes in Networks and Systems, Springer. [DOI: 10.1007/978-3-031-48573-2_17](https://link.springer.com/chapter/10.1007/978-3-031-48573-2_17)
+
+---
+
 ## Honors & Awards
 
 * **1st Prize** — *Connected Innovation & Technology X.0 (ICCTX.0)* (2024). Multi-site international innovation contest organized by the UTT Foundation (France), ENSAM Rabat, and Da Nang University. Project: SparkBuild (GCN and genetic optimization). <a href="/assets/images/gallery/icctx1.jpg" target="_blank" class="proof-link"><i class="fas fa-award"></i> Award Ceremony</a>

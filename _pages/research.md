@@ -37,10 +37,19 @@ My research connects effects on the directly targeted agent, the responses of it
 
 <div class="research-entry">
   <h4>A Survey on Adversarial Multi-Agent Deep Reinforcement Learning</h4>
-  <div class="authors"><strong>Hamza Ba-mohammed</strong>, Latifa El Bouga, Amine Andam, Mostapha Essoulami, Douae Benhlima, Jamal Bentahar, Mustapha Hedabou</div>
-  <div class="venue"><i class="fas fa-file-alt"></i> Under Major Revision — ACM Computing Surveys (ACM CSUR)</div>
+  <div class="authors"><strong>Hamza Ba-mohammed</strong>, Latifa El Bouga, Amine Andam, Mostapha Essoullami, Douae Benhlima, Jamal Bentahar, Mustapha Hedabou</div>
+  <div class="venue"><i class="fas fa-file-alt"></i> Under Major Revision — ACM Computing Surveys (ACM CSUR), Manuscript #CSUR-2025-1595</div>
   <div class="abstract">
-    This survey provides an exhaustive, taxonomy-driven synthesis of the adversarial multi-agent deep reinforcement learning literature. We categorize threat models and attack strategies across the full multi-agent pipeline—including observation space poisonings, action perturbations, communication protocol disruptions, and Byzantine agent insertion. Furthermore, we analyze current empirical and theoretical defense frameworks within Decentralized Partially Observable Markov Decision Processes (Dec-POMDPs), identify evaluation pitfalls in existing benchmarks, and define critical open research directions.
+    <p>This survey delivers a comprehensive, taxonomy-driven synthesis of the adversarial multi-agent deep reinforcement learning (adversarial MARL) landscape, connecting decision-making frameworks (Markov games, POSGs, Dec-POMDPs) to foundational game-theoretic solution concepts including min-max reasoning, Stackelberg structures, and robust equilibria under observational and transition uncertainty.</p>
+    
+    <p><strong>Key Analytical Contributions:</strong></p>
+    <ul>
+      <li><strong>Seven-Dimensional Attack Taxonomy:</strong> Formulates and compares adversarial strategies across attack timing (training-time poisoning vs. execution-time evasion), access privileges (white-box, gray-box, black-box), victim selection and cardinality, attack frequency, and perturbation budgets (\(\ell_p\)-norm bounded observation and action perturbations).</li>
+      <li><strong>Critical Threat Model Gaps:</strong> Reveals that <strong>70%</strong> of the surveyed literature relies on idealized white-box access, while gray-box (5%) and black-box settings remain underexplored; communication channels are critically understudied as attack surfaces; and only <strong>33.3%</strong> of attack studies evaluate existing defenses.</li>
+      <li><strong>Algorithmic Coverage:</strong> Dissects literature selection practices versus inherent algorithmic properties, showing that on-policy architectures such as MAPPO remain largely unstudied as attack targets relative to MADDPG, QMIX, and VDN.</li>
+      <li><strong>Functional Defense Categorization:</strong> Restructures defenses into <em>robustness evaluation</em> and <em>robustness enhancement</em>, synthesizing trade-offs across adversarial training, game-theoretic formulations, mutual information regularization (e.g., MIR3), and certifiable runtime defenses (e.g., ROMAX convex relaxations, anomaly detection, teammate prediction) under operational costs and retraining restrictions.</li>
+      <li><strong>Reproducible Open-Source Pipeline:</strong> Accompanied by an open-sourced literature collection methodology integrating automated scraping, LLM-based semantic filtering, and BERTopic guided clustering over 61 core surveyed papers.</li>
+    </ul>
   </div>
 </div>
 

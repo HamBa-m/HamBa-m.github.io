@@ -39,7 +39,7 @@ My research investigates the relationship between **individual vulnerability and
 
 ### Recent News
 
-* **[Under Revision]** First author of the comprehensive survey paper **“A Survey on Adversarial Multi-Agent Deep Reinforcement Learning”** (with L. El Bouga, A. Andam, M. Essoulami, D. Benhlima, J. Bentahar, and M. Hedabou), currently under **major revision at *ACM Computing Surveys (ACM CSUR)***.
+* **[Under Revision]** First author of the comprehensive survey paper **“A Survey on Adversarial Multi-Agent Deep Reinforcement Learning”** (with L. El Bouga, A. Andam, M. Essoullami, D. Benhlima, J. Bentahar, and M. Hedabou), currently under **major revision at *ACM Computing Surveys (ACM CSUR)***.
 * **[Presentation]** Presented our research at the **UM6P Doctoral Days 2025** at the Benguerir campus.
 * **[Honors]** Awarded **1st Rank & Global Nominee** at the *NASA Space Apps Challenge 2024* (Ifrane Section) and qualified for international global judging.
 * **[Award]** Secured **1st Prize** at the *Connected Innovation and Technology X.0 (ICCTX.0 2024)* international contest organized by the UTT Foundation (France) and ENSAM Rabat.
@@ -52,10 +52,10 @@ My research investigates the relationship between **individual vulnerability and
 
 <div class="research-entry">
   <h4>A Survey on Adversarial Multi-Agent Deep Reinforcement Learning</h4>
-  <div class="authors"><strong>Hamza Ba-mohammed</strong>, Latifa El Bouga, Amine Andam, Mostapha Essoulami, Douae Benhlima, Jamal Bentahar, Mustapha Hedabou</div>
-  <div class="venue"><i class="fas fa-hourglass-half"></i> Under Major Revision — ACM Computing Surveys (ACM CSUR)</div>
+  <div class="authors"><strong>Hamza Ba-mohammed</strong>, Latifa El Bouga, Amine Andam, Mostapha Essoullami, Douae Benhlima, Jamal Bentahar, Mustapha Hedabou</div>
+  <div class="venue"><i class="fas fa-hourglass-half"></i> Under Major Revision — ACM Computing Surveys (ACM CSUR), Manuscript #CSUR-2025-1595</div>
   <div class="abstract">
-    A comprehensive, taxonomy-driven synthesis of adversarial multi-agent deep reinforcement learning. Formally categorizes attack methodologies across observation spaces, action policies, reward structures, and inter-agent communication channels in multi-agent formulations, evaluates current empirical defense benchmarks, and establishes key theoretical and empirical open challenges.
+    A comprehensive synthesis connecting decision-making formalisms (Markov games, POSGs, Dec-POMDPs) to game-theoretic solution concepts. Introduces a <strong>seven-dimensional attack taxonomy</strong>, reveals critical threat-model imbalances (70% white-box prevalence vs. 5% gray-box coverage), provides a <strong>functional defense categorization</strong> (robustness evaluation vs. enhancement), and open-sources a reproducible literature collection pipeline across 61 core surveyed papers.
   </div>
 </div>
 
