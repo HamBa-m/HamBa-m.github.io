@@ -49,6 +49,9 @@ My research connects effects on the directly targeted agent, the responses of it
       <li><strong>Algorithmic &amp; Benchmark Analysis:</strong> Investigates vulnerability profiles across leading multi-agent architectures (comparing on-policy methods and value-factorization approaches) under standard multi-agent benchmarks.</li>
       <li><strong>Functional Defense Categorization:</strong> Structures defense literature around robustness evaluation versus robustness enhancement, synthesizing trade-offs among adversarial training, game-theoretic formulations, regularized objectives, and execution-time certified protections.</li>
     </ul>
+    <div style="margin-top: 1em;">
+      <a href="https://github.com/HamBa-m/sci-scraper" class="btn btn--inverse btn--small" target="_blank"><i class="fab fa-github"></i> Companion Pipeline: sci-scraper</a>
+    </div>
   </div>
 </div>
 
@@ -119,9 +122,10 @@ My research connects effects on the directly targeted agent, the responses of it
 
 ---
 
-## Open-Source Research Software
+## Open-Source Code & Tools
 
-* **[scinis-learn](https://github.com/HamBa-m/scinis-learn):** A modular machine learning library built from scratch in Python 3.8. Implements perceptrons, logistic and polynomial regressors, multiclass schemes, and theoretical tools including VC-dimension estimation, covering numbers, and gradient optimization routines.
+* **[sci-scraper](https://github.com/HamBa-m/sci-scraper):** An automated scientific literature collection and mining pipeline developed in Python. Designed for reproducible literature reviews in AI and reinforcement learning, featuring automated querying across academic repositories, metadata parsing, and semantic filtering (serves as the reproducible literature collection pipeline for our adversarial MARL survey).
+* **[scinis-learn](https://github.com/HamBa-m/scinis-learn):** A lightweight educational machine learning library implemented from scratch in Python. Contains modular implementations of linear classifiers, regressors, gradient optimization routines, and empirical sample complexity tools.
 * **[adaptive-boids](https://github.com/HamBa-m/adaptive-boids):** 2D flocking dynamics simulation framework implementing Reynolds boids rules with telemetry metrics for collective polarization, angular variance, and kinetic energy.
 * **[hambam-unconstraint-optimization](https://github.com/HamBa-m/hambam-unconstraint-optimization):** Mathematical optimization package featuring multivariable descent algorithms (Gradient Descent, Conjugate Gradient, Newton-Raphson) and 1D line search methods (Golden Section, Fibonacci).
-* **[crypto-sss](https://github.com/HamBa-m/crypto-sss):** Simulation and formal verification of Shamir's Secret Sharing (SSS) threshold cryptography, with brute-force resistance analysis.
+* **[crypto-sss](https://github.com/HamBa-m/crypto-sss):** Educational implementation of Shamir's Secret Sharing (SSS) threshold cryptography with polynomial reconstruction and resistance checks.

@@ -96,7 +96,7 @@ toc_label: "CV Sections"
 * **A Survey on Adversarial Multi-Agent Deep Reinforcement Learning**  
   **Hamza Ba-mohammed**, Latifa El Bouga, Amine Andam, Mostapha Essoullami, Douae Benhlima, Jamal Bentahar, Mustapha Hedabou.  
   *ACM Computing Surveys* (ACM CSUR), Under Major Revision.  
-  *Provides a comprehensive multi-dimensional attack taxonomy, functional defense categorization (robustness evaluation vs. enhancement), threat-model access analysis, and benchmark evaluation in adversarial MARL.*
+  *Provides a comprehensive multi-dimensional attack taxonomy, functional defense categorization (robustness evaluation vs. enhancement), threat-model access analysis, and benchmark evaluation in adversarial MARL. Companion pipeline open-sourced at [`github.com/HamBa-m/sci-scraper`](https://github.com/HamBa-m/sci-scraper).*
 
 ### **Peer-Reviewed Conference Proceedings**
 * **Assessing the Evolution of Meteorological Seasons and Climate Changes Using Hierarchical Clustering**  

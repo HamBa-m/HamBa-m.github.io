@@ -57,6 +57,9 @@ My research investigates the relationship between **individual vulnerability and
   <div class="abstract">
     A comprehensive synthesis connecting multi-agent decision formalisms (Markov games, POSGs, Dec-POMDPs) to game-theoretic solution concepts. Develops a multi-dimensional attack taxonomy, examines threat-model access assumptions, provides a functional defense categorization (robustness evaluation vs. enhancement), and outlines open directions across multi-agent benchmarks.
   </div>
+  <div style="margin-top: 0.8em;">
+    <a href="https://github.com/HamBa-m/sci-scraper" class="btn btn--inverse btn--small" target="_blank"><i class="fab fa-github"></i> Companion Tool: sci-scraper</a>
+  </div>
 </div>
 
 <div class="research-entry">
