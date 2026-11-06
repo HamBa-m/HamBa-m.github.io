@@ -28,7 +28,7 @@ My doctoral investigations focus on **Adversarial Robustness in Cooperative Mult
 
 My approach combines theoretical rigor with empirical engineering. With a strong background in competitive programming (algorithms, graph theory, combinatorics, and optimization), I prioritize transparent, white-box algorithmic formulations and reproducible code.
 
-Prior to focusing exclusively on my doctoral research, I co-founded and served as president of the **Moroccan Mathematical Community (MMC)** (2022–2025), where I worked to promote competitive mathematics and problem-solving among students across Morocco. I have since stepped back from community administration to direct my full intellectual focus toward advancing the state of the art in Multi-Agent Reinforcement Learning.
+Prior to focusing exclusively on my doctoral research, I co-founded and served as president of the **Moroccan Mathematical Community (MMC)** (2022–2025), a non-profit dedicated to democratizing mathematical culture, open science, creative pedagogy, and public outreach across Morocco. I have since stepped back from community administration to dedicate my full intellectual focus toward doctoral research in cooperative multi-agent reinforcement learning.
 
 ---
 

@@ -123,8 +123,8 @@ toc_label: "CV Sections"
 *(Note: Prior community engagements; stepped down to maintain exclusive dedication to doctoral research.)*
 
 * **Co-Founder & Past President** — *Moroccan Mathematical Community (MMC)* (2022 – 2025)
-  * Co-founded national non-profit to promote advanced mathematics, problem-solving, and Olympiad preparation.
-  * Formulated founding bylaws, established institutional partnerships, and directed national outreach including Pi Day celebrations.
+  * Co-founded and directed national non-profit dedicated to democratizing mathematical culture, open science, creative pedagogy, and public outreach across Morocco.
+  * Formulated founding bylaws, established institutional partnerships, and directed initiatives in scientific audio-media (MMCast), stealth educational gamification, and community AI/ML workshops.
 * **Deputy President (Collaborations)** — *ENSIAS AI Club* (2022 – 2023)
   * Coordinated scientific webinars (e.g., ML in Astronomy with Dr. Evgeny Smirnov), student workshops, and institutional sponsorships.
 * **Deputy President (Collaborations)** — *ENSIAS IT Club* (2022 – 2023)
@@ -136,7 +136,8 @@ toc_label: "CV Sections"
 
 ## Teaching, Talks & Problem Setting
 
-### Invited Talks & Presentations
+### Invited Talks, Courses & Workshops
+* **Course Lecture:** *Reinforcement Learning 101*, MMC Workshop series with ENSIAS NeuroDynamics Club. [<i class="fab fa-youtube"></i> Watch Lecture](https://youtu.be/X3t4Iw7H3rI?si=3_3lUD9wwofsjHnC)
 * **Speaker:** *Machine Learning for Exoplanet Detection*, 4th Annual Meeting of the African Astronomical Society (AfAS), 2024.
 * **Keynote Speaker:** *A Soft Introduction to Artificial Intelligence*, Scientific Days of FM6 Rabat, 2025. <a href="/assets/images/gallery/ana_fm6.jpg" target="_blank" class="proof-link"><i class="fas fa-microphone"></i> Keynote</a>
 * **Speaker:** *AI and Smart Cities*, 6th Moroccan Robotics Competition (ENIM), 2024. <a href="/assets/images/gallery/enim_minemakers_2.png" target="_blank" class="proof-link"><i class="fas fa-microphone"></i> Talk</a>
