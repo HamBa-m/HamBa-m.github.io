@@ -70,7 +70,7 @@ toc_label: "CV Sections"
 * **Period:** 2024 – Present
 * Theoretical and empirical investigation of adversarial robustness, observation perturbation propagation, behavioral heterogeneity, and execution-time protection in cooperative MARL.
 * First author of the comprehensive survey *“A Survey on Adversarial Multi-Agent Deep Reinforcement Learning”* (*under major revision at ACM Computing Surveys*).
-* Presented doctoral research poster at UM6P Doctoral Days 2025 (Benguerir). <a href="/assets/images/gallery/doctoral_days_2025.jpeg" target="_blank" class="proof-link"><i class="fas fa-camera"></i> Poster Presentation</a>
+* Presented doctoral research poster at UM6P Doctoral Days 2025 (Benguerir). <a href="/assets/docs/poster_um6p_doctoral_days_2025.pdf" target="_blank" class="proof-link"><i class="fas fa-file-pdf"></i> Poster (PDF)</a> <a href="/assets/images/gallery/doctoral_days_2025.jpeg" target="_blank" class="proof-link"><i class="fas fa-camera"></i> Event Photo</a>
 
 ### **AI Research Intern (Engineering Capstone)**
 * **Lab:** [AI Movement — International AI Center of Morocco](https://aim.um6p.ma/en/home/), UM6P, Rabat <a href="/assets/images/gallery/ai_mov.jpg" target="_blank" class="proof-link"><i class="fas fa-camera"></i> Lab Photo</a>
@@ -145,6 +145,7 @@ toc_label: "CV Sections"
 ## Teaching, Talks & Problem Setting
 
 ### Invited Talks, Courses & Workshops
+* **Poster Presentation:** *Adversarial Attacks and Defenses in Multi-Agent Deep Reinforcement Learning: A Comprehensive Survey*, UM6P Doctoral Days (Benguerir, Oct 2025). <a href="/assets/docs/poster_um6p_doctoral_days_2025.pdf" target="_blank" class="proof-link"><i class="fas fa-file-pdf"></i> Poster (PDF)</a> <a href="/assets/images/gallery/doctoral_days_2025.jpeg" target="_blank" class="proof-link"><i class="fas fa-camera"></i> Presentation Photo</a>
 * **Course Lecture:** *Reinforcement Learning 101*, MMC Workshop series with ENSIAS NeuroDynamics Club. [<i class="fab fa-youtube"></i> Watch Lecture](https://youtu.be/X3t4Iw7H3rI?si=3_3lUD9wwofsjHnC)
 * **Speaker:** *Machine Learning for Exoplanet Detection*, 4th Annual Meeting of the African Astronomical Society (AfAS), 2024.
 * **Keynote Speaker:** *A Soft Introduction to Artificial Intelligence*, Scientific Days of FM6 Rabat, 2025. <a href="/assets/images/gallery/ana_fm6.jpg" target="_blank" class="proof-link"><i class="fas fa-microphone"></i> Keynote</a>

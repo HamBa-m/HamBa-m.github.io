@@ -42,7 +42,7 @@ My research investigates the relationship between **individual vulnerability and
 
 ### Recent News
 
-* **[Jan 2026]** Presented doctoral research on observation perturbation propagation and behavioral heterogeneity in cooperative MARL at the **UM6P Doctoral Days 2025** (Benguerir).
+* **[Oct 2025]** Presented research poster on *Adversarial Attacks and Defenses in Multi-Agent Deep Reinforcement Learning* at the **UM6P Doctoral Days 2025** (Benguerir). [<a href="/assets/docs/poster_um6p_doctoral_days_2025.pdf" target="_blank"><i class="fas fa-file-pdf"></i> Poster PDF</a>]
 * **[Dec 2025]** First author of comprehensive survey paper **“A Survey on Adversarial Multi-Agent Deep Reinforcement Learning”** (with L. El Bouga, A. Andam, M. Essoullami, D. Benhlima, J. Bentahar, and M. Hedabou), currently under **major revision at *ACM Computing Surveys (ACM CSUR)***.
 * **[Nov 2024]** Awarded **1st Rank & Global Nominee** at the *NASA Space Apps Challenge 2024* (Ifrane Section) and qualified for international global judging.
 
@@ -57,7 +57,8 @@ My research investigates the relationship between **individual vulnerability and
   <div class="abstract">
     A comprehensive synthesis connecting multi-agent decision models (Markov games, POSGs, Dec-POMDPs) to game-theoretic solution concepts. Develops a multi-dimensional attack taxonomy, examines threat-model access assumptions, provides a functional defense categorization (robustness evaluation vs. enhancement), and critically reviews published empirical benchmarks.
   </div>
-  <div style="margin-top: 0.8em;">
+  <div style="margin-top: 0.8em; display: flex; gap: 8px; flex-wrap: wrap;">
+    <a href="/assets/docs/poster_um6p_doctoral_days_2025.pdf" class="btn btn--primary btn--small" target="_blank"><i class="fas fa-file-pdf"></i> Conference Poster (PDF)</a>
     <a href="https://github.com/HamBa-m/sci-scraper" class="btn btn--inverse btn--small" target="_blank"><i class="fab fa-github"></i> Companion Tool: sci-scraper</a>
   </div>
 </div>

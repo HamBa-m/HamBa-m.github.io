@@ -35,7 +35,7 @@ My research connects effects on the directly targeted agent, the responses of it
 * **Experimental Investigation:** Implementing a simulation-based experimental framework studying adversarial robustness in cooperative MARL tasks. The platform compares varying degrees of policy heterogeneity and communication structures under adversarial perturbations.
 * **Connecting Analysis and Evidence:** Evaluating whether analytical metrics faithfully describe interacting agent behaviors, establishing criteria to distinguish damaging peer responses from useful recovery, and assessing the role of diversity across tasks without assuming that heterogeneity unconditionally improves robustness.
 * **Prospective Empirical Direction:** Exploring execution-time protection inspired by collective biological systems (such as artificial immune systems and differentiated fault detection), with **multi-robot teams** as a primary prospective testbed.
-* **Research Artifacts & Preprints:** Presentation slide decks, simulation codebases, and experimental data will be linked here as forthcoming manuscripts and benchmark releases are finalized.
+* **Research Artifacts & Preprints:** Presentation poster from UM6P Doctoral Days 2025 is available below ([Download PDF](/assets/docs/poster_um6p_doctoral_days_2025.pdf)). Simulation codebases, benchmark suites, and preprints will be linked here as ongoing manuscripts reach completion.
 
 ---
 
@@ -54,8 +54,10 @@ My research connects effects on the directly targeted agent, the responses of it
       <li><strong>Functional Defense Categorization:</strong> Structures defenses into robustness evaluation vs. enhancement (adversarial training, regularized objectives, certified bounds, and execution-time shields).</li>
       <li><strong>Critical Synthesis of Published Benchmarks:</strong> Reviews empirical methodologies, threat realism, and evaluation gaps across standard multi-agent benchmark environments.</li>
     </ul>
-    <div style="margin-top: 1em;">
+    <div style="margin-top: 1em; display: flex; gap: 8px; flex-wrap: wrap;">
+      <a href="/assets/docs/poster_um6p_doctoral_days_2025.pdf" class="btn btn--primary btn--small" target="_blank"><i class="fas fa-file-pdf"></i> Doctoral Days Poster (PDF)</a>
       <a href="https://github.com/HamBa-m/sci-scraper" class="btn btn--inverse btn--small" target="_blank"><i class="fab fa-github"></i> Companion Pipeline: sci-scraper</a>
+      <a href="/assets/images/gallery/doctoral_days_2025.jpeg" class="btn btn--light-outline btn--small" target="_blank"><i class="fas fa-camera"></i> Presentation Photo</a>
     </div>
   </div>
 </div>

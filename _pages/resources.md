@@ -18,6 +18,7 @@ A collection of educational materials, lecture slides, handbooks, and problem se
 
 | Year | Title | Event / Institution | Link |
 |:---:|:---|:---|:---:|
+| 2025 | **Adversarial Attacks & Defenses in MADRL** | UM6P Doctoral Days | <a class="btn btn--primary btn--small" href="/assets/docs/poster_um6p_doctoral_days_2025.pdf" target="_blank">Poster (PDF)</a> |
 | 2024 | **Machine Learning 101** | Mines IT Club (ENIM) | <a class="btn btn--primary btn--small" href="https://drive.google.com/file/d/15T4VqCG1ELvyn5BIb7OFw3X0EiOs07Lx/view?usp=drive_link" target="_blank">Slides</a> |
 | 2024 | **General Introduction to AI** | Mines IT Club (ENIM) | <a class="btn btn--primary btn--small" href="https://drive.google.com/file/d/1T8Xe8gOFILKv_vcky7h144bm2LfhwVZR/view?usp=drive_link" target="_blank">Slides</a> |
 | 2024 | **The (Statistical) Theory of Learning** | ENSIAS | <a class="btn btn--primary btn--small" href="https://drive.google.com/file/d/11A7fDCAt6kvBDa2xcw1LzZj3HfnBPkEO/view?usp=drive_link" target="_blank">Slides</a> |
