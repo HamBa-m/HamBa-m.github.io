@@ -8,8 +8,18 @@ toc_sticky: true
 toc_label: "CV Sections"
 ---
 
-<div class="action-buttons">
-  <a href="/assets/cv/Hamza_Ba-mohammed_CV.pdf" class="btn btn--primary" target="_blank"><i class="fas fa-file-pdf"></i> Download CV (PDF)</a>
+<div class="notice--info" style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 12px; margin-bottom: 1.5em; padding: 1em 1.25em;">
+  <div>
+    <strong>Curriculum Vitae</strong> &bull; Complete academic, research, and technical record
+  </div>
+  <div>
+    <a href="/assets/cv/Hamza_Ba-mohammed_CV.pdf" class="btn btn--primary" target="_blank" style="margin: 0;">
+      <i class="fas fa-file-pdf"></i> Download Official CV (PDF)
+    </a>
+  </div>
+</div>
+
+<div class="action-buttons" style="margin-bottom: 1.5em;">
   <a href="mailto:hamza.bamohammed@um6p.ma" class="btn btn--inverse"><i class="fas fa-envelope"></i> hamza.bamohammed@um6p.ma</a>
   <a href="https://scholar.google.com/citations?user=NdATUncAAAAJ" class="btn btn--inverse" target="_blank"><i class="fas fa-graduation-cap"></i> Google Scholar</a>
   <a href="https://orcid.org/0000-0003-1454-0801" class="btn btn--inverse" target="_blank"><i class="fab fa-orcid"></i> ORCID</a>
@@ -32,7 +42,7 @@ toc_label: "CV Sections"
 * **Institution:** [Higher National School of Computer Sciences (ENSIAS)](http://ensias.um5.ac.ma/), Rabat, Morocco
 * **Period:** 2021 – 2024
 * **Major:** Artificial Intelligence Engineering (2IA) — Research Engineer Track
-* **Graduation Jury:** Dr. Houssine Hsayn, Dr. Abdelatif El Afia (Supervisor), Dr. Ilham Berrada (Director), Dr. Mohamed Naoum, Dr. Redouane Chiheb
+* **Graduation Jury:** Dr. Abdelatif El Afia (Supervisor), Dr. Ilham Berrada (Director), Dr. Mohamed Naoum
 
 ### **Classes Préparatoires aux Grandes Écoles (CPGE)**
 * **Institution:** Centre CPGE Moulay Youssef, Rabat, Morocco

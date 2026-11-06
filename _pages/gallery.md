@@ -22,7 +22,7 @@ main_gallery:
 # --- 2024: Graduation, Awards, & Research ---
 - alt: graduation_jury.jpg
   image_path: /assets/images/gallery/graduation_jury.jpg
-  title: 'picture with my thesis defense jury at ENSIAS Rabat, 2024. From left to right: Dr. Houssine Hsayn, Dr. Abdelatif El Afia (supervisor), me, Dr. Ilham Berrada (Director), Dr. Mohamed Naoum, and Dr. Reddouane Chiheb.'
+  title: 'picture from my engineering thesis defense at ENSIAS Rabat, 2024. With jury members Dr. Abdelatif El Afia (supervisor), Dr. Ilham Berrada (Director), and Dr. Mohamed Naoum, alongside attending faculty Dr. Houssine Hsayn and Dr. Redouane Chiheb.'
   url: /assets/images/gallery/graduation_jury.jpg
 - alt: graduation_dress.jpg
   image_path: /assets/images/gallery/graduation_dress.jpg

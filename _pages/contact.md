@@ -6,17 +6,22 @@ author_profile: true
 classes: wide
 ---
 
-I welcome discussions regarding research collaborations, visiting researcher / research internship opportunities, and scientific inquiries in Multi-Agent Reinforcement Learning, adversarial robustness, and game-theoretic safety.
-
-### Institutional Coordinates
-
-* **Email (Primary):** [hamza.bamohammed@um6p.ma](mailto:hamza.bamohammed@um6p.ma)
-* **Email (Alternative):** [bamohammed.empiomo@gmail.com](mailto:bamohammed.empiomo@gmail.com)
-* **Office:** College of Computing (CC), Mohammed VI Polytechnic University (UM6P), Benguerir / Rabat, Morocco
-* **Academic Profiles:** [Google Scholar](https://scholar.google.com/citations?user=NdATUncAAAAJ) • [ORCID](https://orcid.org/0000-0003-1454-0801) • [GitHub](https://github.com/hamba-m) • [LinkedIn](https://linkedin.com/in/hambam) • [ResearchGate](https://www.researchgate.net/profile/Hamza-Ba-Mohammed)
+I welcome discussions regarding potential research collaborations, visiting researcher or research internship opportunities, and technical inquiries in cooperative multi-agent reinforcement learning, policy heterogeneity, and adversarial robustness.
 
 ---
 
-### Send a Direct Message
+### Coordinates
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdN4LY15Yn6FBB3_H-zDP9wwem2yX9onLi-lzvaYa5SbL03dw/viewform?embedded=true" width="100%" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+* **Institutional Email:** [hamza.bamohammed@um6p.ma](mailto:hamza.bamohammed@um6p.ma)
+* **Alternative Email:** [bamohammed.empiomo@gmail.com](mailto:bamohammed.empiomo@gmail.com)
+* **Office:** College of Computing (CC), Mohammed VI Polytechnic University (UM6P), Benguerir / Rabat, Morocco
+
+---
+
+### Academic & Professional Profiles
+
+* **Google Scholar:** [Hamza Ba-mohammed](https://scholar.google.com/citations?user=NdATUncAAAAJ)
+* **ORCID:** [0000-0003-1454-0801](https://orcid.org/0000-0003-1454-0801)
+* **GitHub:** [hamba-m](https://github.com/hamba-m)
+* **LinkedIn:** [hambam](https://linkedin.com/in/hambam)
+* **ResearchGate:** [Hamza-Ba-Mohammed](https://www.researchgate.net/profile/Hamza-Ba-Mohammed)
