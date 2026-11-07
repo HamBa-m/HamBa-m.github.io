@@ -13,3 +13,6 @@ vendor
 # Archives
 *.rar
 *.zip
+
+# Root-level PDF drops
+/*.pdf

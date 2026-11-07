@@ -18,7 +18,10 @@ A collection of educational materials, lecture slides, handbooks, and problem se
 
 | Year | Title | Event / Institution | Link |
 |:---:|:---|:---|:---:|
-| 2025 | **Adversarial Attacks & Defenses in MADRL** | UM6P Doctoral Days | <a class="btn btn--primary btn--small" href="/assets/docs/poster_um6p_doctoral_days_2025.pdf" target="_blank">Poster (PDF)</a> |
+| 2026 | **AI for Chemistry** | Astrophiles Club × MMC (ENSCK) | <a class="btn btn--primary btn--small" href="https://drive.google.com/file/d/1e9gP6C2yshU5zXiZ9zCr2Elnap65Wp5_/view?usp=drive_link" target="_blank">Slides</a> |
+| 2025 | **LLMs 101: Foundations to Agents** | INSEA IT Club × MMC (IT Academy) | <a class="btn btn--primary btn--small" href="https://drive.google.com/file/d/1Y-5ohI9az-JIYwmpYt7BBPe0fx76h74y/view?usp=drive_link" target="_blank">Slides</a> |
+| 2025 | **Reinforcement Learning 101** | NeuroDynamics Club × MMC (ENSIAS) | <a class="btn btn--primary btn--small" href="https://drive.google.com/file/d/1SoqWorFqPbHZg6-0uY2eRelfO1yP0MtH/view?usp=drive_link" target="_blank">Slides</a> |
+| 2025 | **Adversarial Attacks & Defenses in MADRL (Poster)** | UM6P Doctoral Days | <a class="btn btn--primary btn--small" href="https://drive.google.com/file/d/1qRYIgG5URSCmis2cHR3FswqYwdiuUNZD/view?usp=drive_link" target="_blank">Slides</a> |
 | 2024 | **Machine Learning 101** | Mines IT Club (ENIM) | <a class="btn btn--primary btn--small" href="https://drive.google.com/file/d/15T4VqCG1ELvyn5BIb7OFw3X0EiOs07Lx/view?usp=drive_link" target="_blank">Slides</a> |
 | 2024 | **General Introduction to AI** | Mines IT Club (ENIM) | <a class="btn btn--primary btn--small" href="https://drive.google.com/file/d/1T8Xe8gOFILKv_vcky7h144bm2LfhwVZR/view?usp=drive_link" target="_blank">Slides</a> |
 | 2024 | **The (Statistical) Theory of Learning** | ENSIAS | <a class="btn btn--primary btn--small" href="https://drive.google.com/file/d/11A7fDCAt6kvBDa2xcw1LzZj3HfnBPkEO/view?usp=drive_link" target="_blank">Slides</a> |
@@ -69,7 +72,7 @@ Authored problem sets covering graph theory, dynamic programming, probabilities,
 
 ## Recorded Lectures & Talks
 
-* **Course Lecture:** *Reinforcement Learning 101*, MMC Workshops with ENSIAS NeuroDynamics Club. [<i class="fab fa-youtube"></i> Watch on YouTube](https://youtu.be/X3t4Iw7H3rI?si=3_3lUD9wwofsjHnC)
+* **Course Lecture:** *Reinforcement Learning 101*, MMC Workshops with ENSIAS NeuroDynamics Club. [<i class="fab fa-youtube"></i> Watch on YouTube](https://youtu.be/X3t4Iw7H3rI?si=3_3lUD9wwofsjHnC) &bull; [<i class="fas fa-file-powerpoint"></i> View Slides](https://drive.google.com/file/d/1SoqWorFqPbHZg6-0uY2eRelfO1yP0MtH/view?usp=drive_link)
 * **Course Lecture:** *Theory of Statistical Learning*, ENSIAS AI Club. [<i class="fab fa-youtube"></i> Watch on YouTube](https://youtu.be/u8ZT_BKYo7w)
 * **Webinar:** *Applications of Machine Learning in Astronomy* (with Dr. Evgeny Smirnov). [<i class="fas fa-video"></i> Watch Recording](https://drive.google.com/file/d/1ZtXXjtaEOMJl3DGXxlKi2F326NuuGeSU/view?usp=sharing)
 * **Podcast:** *AI, Popular Science, & Academic Research*, ENSIAS Radio. [<i class="fab fa-youtube"></i> Listen on YouTube](https://www.youtube.com/watch?v=XnLZ6SmqCU4)
