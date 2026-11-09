@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Research & Publications"
-description: "Doctoral research agenda, under-review manuscripts, peer-reviewed conference proceedings, and research codebases in cooperative Multi-Agent Reinforcement Learning by Hamza Ba-mohammed."
+description: "Doctoral research agenda in cooperative Multi-Agent Reinforcement Learning, survey manuscripts, and prior research work by Hamza Ba-mohammed."
 permalink: /research/
 redirect_from:
   - /academia/publications/
@@ -17,7 +17,7 @@ My doctoral research investigates **Adversarial Robustness in Cooperative Multi-
 
 ---
 
-## Doctoral Research: Adversarial Robustness in Cooperative MARL
+## Doctoral Research (PhD Track)
 
 Cooperative multi-agent reinforcement learning (MARL) enables teams of autonomous agents to coordinate in shared environments where their actions directly affect one another. While behavioral diversity can support specialization, it also introduces asymmetric vulnerabilities: observations can be deliberately manipulated to mislead a trained policy. In a cooperative setting, the consequences need not remain confined to the agent receiving corrupted inputs—peer reactions can either contain the disruption or amplify its damage.
 
@@ -29,17 +29,7 @@ My research connects effects on the directly targeted agent, the responses of it
 * **Team Organization (Heterogeneity & Communication):** How do behavioral heterogeneity (differences in agents' learned behaviors) and inter-agent communication influence whether local disruptions are amplified, contained, or compensated?
 * **Adaptive Protection:** How can the vulnerabilities identified through analytical and empirical study guide execution-time defenses that preserve pretrained policy parameters?
 
-### Current Activities & Progress
-
-* **Analytical Formulation:** Developing a theoretical framework that formally distinguishes the effect on a directly targeted agent, the responses of its peers, and the resulting team performance. The objective is to connect localized disturbances to collective outcomes and clarify the mathematical assumptions governing these relationships.
-* **Experimental Investigation:** Implementing a simulation-based experimental framework studying adversarial robustness in cooperative MARL tasks. The platform compares varying degrees of policy heterogeneity and communication structures under adversarial perturbations.
-* **Connecting Analysis and Evidence:** Evaluating whether analytical metrics faithfully describe interacting agent behaviors, establishing criteria to distinguish damaging peer responses from useful recovery, and assessing the role of diversity across tasks without assuming that heterogeneity unconditionally improves robustness.
-* **Prospective Empirical Direction:** Exploring execution-time protection inspired by collective biological systems (such as artificial immune systems and differentiated fault detection), with **multi-robot teams** as a primary prospective testbed.
-* **Research Artifacts & Preprints:** Presentation poster from UM6P Doctoral Days 2025 is available below ([Download PDF](https://drive.google.com/file/d/1qRYIgG5URSCmis2cHR3FswqYwdiuUNZD/view?usp=drive_link)). Simulation codebases, benchmark suites, and preprints will be linked here as ongoing manuscripts reach completion.
-
----
-
-## Manuscripts Under Review
+### Doctoral Publications
 
 <div class="research-entry">
   <h4>A Survey on Adversarial Multi-Agent Deep Reinforcement Learning</h4>
@@ -64,7 +54,9 @@ My research connects effects on the directly targeted agent, the responses of it
 
 ---
 
-## Peer-Reviewed Conference Proceedings
+## Prior Research Work
+
+Research conducted during master's / engineering track and preparatory studies (ENSIAS / AI Movement UM6P):
 
 <div class="research-entry">
   <h4>Assessing the Evolution of Meteorological Seasons and Climate Changes Using Hierarchical Clustering</h4>
@@ -77,10 +69,6 @@ My research connects effects on the directly targeted agent, the responses of it
     <a href="https://link.springer.com/chapter/10.1007/978-3-031-48573-2_17" class="btn btn--inverse btn--small" target="_blank"><i class="fas fa-external-link-alt"></i> Springer Chapter</a>
   </div>
 </div>
-
----
-
-## Prior Research Projects & Capstones
 
 <div class="research-entry">
   <h4>Multi-Agent Deep RL for Agile Earth Observation Satellite Constellations</h4>
@@ -127,12 +115,17 @@ My research connects effects on the directly targeted agent, the responses of it
   </div>
 </div>
 
----
-
-## Open-Source Code & Tools
-
-* **[sci-scraper](https://github.com/HamBa-m/sci-scraper):** An automated scientific literature collection and mining pipeline developed in Python. Designed for reproducible literature reviews in AI and reinforcement learning, featuring automated querying across academic repositories, metadata parsing, and semantic filtering (serves as the reproducible literature collection pipeline for our adversarial MARL survey).
-* **[scinis-learn](https://github.com/HamBa-m/scinis-learn):** A lightweight educational machine learning library implemented from scratch in Python. Contains modular implementations of linear classifiers, regressors, gradient optimization routines, and empirical sample complexity tools.
-* **[adaptive-boids](https://github.com/HamBa-m/adaptive-boids):** 2D flocking dynamics simulation framework implementing Reynolds boids rules with telemetry metrics for collective polarization, angular variance, and kinetic energy.
-* **[hambam-unconstraint-optimization](https://github.com/HamBa-m/hambam-unconstraint-optimization):** Mathematical optimization package featuring multivariable descent algorithms (Gradient Descent, Conjugate Gradient, Newton-Raphson) and 1D line search methods (Golden Section, Fibonacci).
-* **[crypto-sss](https://github.com/HamBa-m/crypto-sss):** Educational implementation of Shamir's Secret Sharing (SSS) threshold cryptography with polynomial reconstruction and resistance checks.
+<div class="research-entry">
+  <h4>Open-Source Algorithmic &amp; Scientific Software</h4>
+  <div class="authors"><strong>Hamza Ba-mohammed</strong> (Engineering &amp; Foundation Codebases)</div>
+  <div class="venue"><i class="fab fa-github"></i> Open-Source Repositories</div>
+  <div class="abstract">
+    Modular algorithmic toolkits and simulation frameworks developed during engineering studies, spanning collective multi-agent flocking, first-principles machine learning, multivariable descent optimization, and cryptography.
+  </div>
+  <div style="margin-top: 0.8em; display: flex; gap: 8px; flex-wrap: wrap;">
+    <a href="https://github.com/HamBa-m/adaptive-boids" class="btn btn--inverse btn--small" target="_blank"><i class="fab fa-github"></i> adaptive-boids</a>
+    <a href="https://github.com/HamBa-m/scinis-learn" class="btn btn--inverse btn--small" target="_blank"><i class="fab fa-github"></i> scinis-learn</a>
+    <a href="https://github.com/HamBa-m/hambam-unconstraint-optimization" class="btn btn--inverse btn--small" target="_blank"><i class="fab fa-github"></i> unconstrained-optimization</a>
+    <a href="https://github.com/HamBa-m/crypto-sss" class="btn btn--inverse btn--small" target="_blank"><i class="fab fa-github"></i> crypto-sss</a>
+  </div>
+</div>

@@ -11,11 +11,7 @@ I am a **PhD Candidate in Computer Science / Artificial Intelligence** at the [C
 
 My research investigates **adversarial robustness in cooperative Multi-Agent Reinforcement Learning (MARL)**: *when autonomous agents coordinate in shared environments, how do localized observation perturbations propagate across interacting teammates, and how can we design adaptive, parameter-preserving execution-time defenses to guarantee collective resilience?*
 
-I am co-supervised by:
-* **[Prof. Mustapha Hedabou](https://scholar.google.com/citations?user=n-0iO4sAAAAJ)** — Mohammed VI Polytechnic University (UM6P), Morocco
-* **[Prof. Jamal Bentahar](https://scholar.google.com/citations?user=0Q25J-gAAAAJ)** — Khalifa University, United Arab Emirates & Concordia University, Canada
-
-Previously, I received a State-Engineer Diploma in Artificial Intelligence Engineering (accredited as equivalent to an M.Sc. in Engineering) from [ENSIAS](http://ensias.um5.ac.ma/), Rabat, following two years of intensive Classes Préparatoires (MPSI/MP) at Lycée Moulay Youssef.
+I am co-supervised by [Prof. Mustapha Hedabou](https://scholar.google.com/citations?user=E-YKy3AAAAAJ&hl=en&oi=ao) (UM6P) and [Prof. Jamal Bentahar](https://scholar.google.com/citations?user=0P3u800AAAAJ&hl=en&oi=ao) (Khalifa University & Concordia University). Previously, I received a State-Engineer Diploma in Artificial Intelligence Engineering (accredited as equivalent to an M.Sc. in Engineering) from [ENSIAS](http://ensias.um5.ac.ma/), Rabat, following two years of intensive Classes Préparatoires (MPSI/MP) at Lycée Moulay Youssef.
 
 <div class="action-buttons">
   <a href="/research/" class="btn btn--primary"><i class="fas fa-book-open"></i> Research & Publications</a>
@@ -42,9 +38,8 @@ My research investigates the relationship between **individual vulnerability and
 
 ### Recent News
 
-* **[Oct 2025]** Presented research poster on *Adversarial Attacks and Defenses in Multi-Agent Deep Reinforcement Learning* at the **UM6P Doctoral Days 2025** (Benguerir). [<a href="https://drive.google.com/file/d/1qRYIgG5URSCmis2cHR3FswqYwdiuUNZD/view?usp=drive_link" target="_blank"><i class="fas fa-file-pdf"></i> Poster PDF</a>]
 * **[Dec 2025]** First author of comprehensive survey paper **“A Survey on Adversarial Multi-Agent Deep Reinforcement Learning”** (with L. El Bouga, A. Andam, M. Essoullami, D. Benhlima, J. Bentahar, and M. Hedabou), currently under **major revision at *ACM Computing Surveys (ACM CSUR)***.
-* **[Nov 2024]** Awarded **1st Rank & Global Nominee** at the *NASA Space Apps Challenge 2024* (Ifrane Section) and qualified for international global judging.
+* **[Oct 2025]** Presented research poster on *Adversarial Attacks and Defenses in Multi-Agent Deep Reinforcement Learning* at the **UM6P Doctoral Days 2025** (Benguerir). [<a href="https://drive.google.com/file/d/1qRYIgG5URSCmis2cHR3FswqYwdiuUNZD/view?usp=drive_link" target="_blank"><i class="fas fa-file-pdf"></i> Poster PDF</a>]
 
 ---
 

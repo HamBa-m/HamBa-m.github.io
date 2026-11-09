@@ -26,7 +26,7 @@ A collection of educational materials, lecture slides, handbooks, and problem se
 | 2024 | **General Introduction to AI** | Mines IT Club (ENIM) | <a class="btn btn--primary btn--small" href="https://drive.google.com/file/d/1T8Xe8gOFILKv_vcky7h144bm2LfhwVZR/view?usp=drive_link" target="_blank">Slides</a> |
 | 2024 | **The (Statistical) Theory of Learning** | ENSIAS | <a class="btn btn--primary btn--small" href="https://drive.google.com/file/d/11A7fDCAt6kvBDa2xcw1LzZj3HfnBPkEO/view?usp=drive_link" target="_blank">Slides</a> |
 | 2023 | **Neurons Coding Perceptrons** | ENSIAS | <a class="btn btn--primary btn--small" href="https://drive.google.com/file/d/14c7jNjnQunflxHlFlbok7-QCxgluZFPo/view?usp=drive_link" target="_blank">Slides</a> |
-| 2024 | **ExoWeb.AI: Exoplanet Detection** | AfAS / FSR | <a class="btn btn--primary btn--small" href="https://drive.google.com/file/d/14c7jNjnQunflxHlFlbok7-QCxgluZFPo/view?usp=drive_link" target="_blank">Slides</a> |
+| 2024 | **ExoWeb.AI: Exoplanet Detection** | AfAS / FSR | <a class="btn btn--primary btn--small" href="https://drive.google.com/file/d/1Z1FBMceXmg715lWNFd6w0ITt4gMjWUhV/view?usp=drive_link" target="_blank">Slides</a> |
 | 2022 | **Introduction to ML and AI** | ENSIAS | <a class="btn btn--primary btn--small" href="https://drive.google.com/file/d/1s2rukvZvuThh2BZMyBuBlCdXBZTAZcx9/view?usp=drive_link" target="_blank">Slides</a> |
 | 2022 | **Applications of ML in Astronomy** | ENSIAS / ENIM | <a class="btn btn--primary btn--small" href="https://drive.google.com/file/d/172jL6CidRbIaP-qyOGzmCSu_ekbYm4Gw/view?usp=drive_link" target="_blank">Slides</a> |
 | 2022 | **Non-Linear Data Structures** | ENSIAS | <a class="btn btn--primary btn--small" href="https://drive.google.com/file/d/1GHy48BJ2H7mskYYcQsUiiCf3fSpaP7Fe/view?usp=drive_link" target="_blank">Slides</a> |
@@ -65,7 +65,7 @@ Authored problem sets covering graph theory, dynamic programming, probabilities,
 | **ITholic 2023** | Bambina and the Infinite... | Cryptography | <a class="btn btn--inverse btn--small" href="https://drive.google.com/file/d/1xBn-KS7uvJvPcUPz705pbvJD_ctGmo6N/view?usp=sharing" target="_blank">Solve</a> |
 | **ITholic 2023** | Aziza and the VR | Probability, Two Pointers | <a class="btn btn--inverse btn--small" href="https://drive.google.com/file/d/1EtxxkIfUVAVAn6oocbq1-odoPKW-_ix2/view?usp=sharing" target="_blank">Solve</a> |
 | **ITholic 2023** | Mr Belhich | Number Theory | <a class="btn btn--inverse btn--small" href="https://drive.google.com/file/d/19vAf7-j0T8fxNz1Pp1N9RjmUQAupG1rT/view?usp=sharing" target="_blank">Solve</a> |
-| **MNPC 2022** | Bored Hamza | Discrete Geometry | <a class="btn btn--inverse btn--small" href="https://drive.google.com/file/d/1eIvvqxbUun6EP47tei4KNQ9DLt2Wm9L3/view?usp=drive_link" target="_blank">Solve</a> |
+| **MNPC 2022** | Bored Hamza | Discrete Geometry | <a class="btn btn--inverse btn--small" href="https://drive.google.com/file/d/1KrVncTA-WASxaelvHPzFyBXnYk_kRFWZ/view?usp=drive_link" target="_blank">Solve</a> |
 | **MNPC 2022** | Let's walk a little bit | Graphs, BFS / DFS | <a class="btn btn--inverse btn--small" href="https://drive.google.com/file/d/18XwNWEiz9GSeaOKmbFbHDw8tHEmZ1L9G/view?usp=sharing" target="_blank">Solve</a> |
 
 ---

@@ -40,8 +40,8 @@ toc_label: "CV Sections"
 * **Period:** 2024 – Present (Expected 2028)
 * **Thesis Topic:** Adversarial Robustness in Cooperative Multi-Agent Learning
 * **Supervisors:**
-  * [Prof. Mustapha Hedabou](https://scholar.google.com/citations?user=n-0iO4sAAAAJ) — Mohammed VI Polytechnic University (UM6P), Morocco
-  * [Prof. Jamal Bentahar](https://scholar.google.com/citations?user=0Q25J-gAAAAJ) — Khalifa University, UAE & Concordia University, Canada
+  * [Prof. Mustapha Hedabou](https://scholar.google.com/citations?user=E-YKy3AAAAAJ&hl=en&oi=ao) — Mohammed VI Polytechnic University (UM6P), Morocco
+  * [Prof. Jamal Bentahar](https://scholar.google.com/citations?user=0P3u800AAAAJ&hl=en&oi=ao) — Khalifa University, UAE & Concordia University, Canada
 
 ### **State-Engineer Diploma in Artificial Intelligence Engineering (Diplôme d'Ingénieur d'État en Intelligence Artificielle)**
 * **Institution:** [Higher National School of Computer Science and Systems Analysis (ENSIAS)](http://ensias.um5.ac.ma/), Rabat, Morocco

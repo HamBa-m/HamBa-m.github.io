@@ -9,11 +9,9 @@ classes: wide
 
 I am a **Doctoral Researcher in Computer Science / Artificial Intelligence** at the [College of Computing (CC)](https://cc.um6p.ma/), [Mohammed VI Polytechnic University (UM6P)](https://um6p.ma/), Morocco. 
 
-My doctoral research is co-supervised by:
-* **[Prof. Mustapha Hedabou](https://scholar.google.com/citations?user=n-0iO4sAAAAJ)** — Mohammed VI Polytechnic University (UM6P), Morocco
-* **[Prof. Jamal Bentahar](https://scholar.google.com/citations?user=0Q25J-gAAAAJ)** — Khalifa University, United Arab Emirates & Concordia University, Canada
-
 My doctoral investigations focus on **Adversarial Robustness in Cooperative Multi-Agent Learning**. I study the relationship between individual vulnerability and collective performance in cooperative teams whose decisions are learned through interaction. Specifically, I examine how localized observation perturbations propagate across interacting agents, how **behavioral heterogeneity** (policy diversity) and **inter-agent communication** influence whether disruptions are amplified, contained, or compensated, and how these insights guide **adaptive, execution-time protection** (preserving pretrained policy parameters) with multi-robot systems as a prospective empirical direction.
+
+I am co-supervised by [Prof. Mustapha Hedabou](https://scholar.google.com/citations?user=E-YKy3AAAAAJ&hl=en&oi=ao) (UM6P) and [Prof. Jamal Bentahar](https://scholar.google.com/citations?user=0P3u800AAAAJ&hl=en&oi=ao) (Khalifa University & Concordia University).
 
 ---
 
